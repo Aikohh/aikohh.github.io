@@ -1,0 +1,8 @@
+replit.nix
+.replit
+.breakpoints
+venv/
+.config/
+.git/
+.upm/
+autobuild/
