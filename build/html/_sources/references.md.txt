@@ -11,4 +11,7 @@ Here is a list of notable YouTube channels for Waker gameplay showcases to use a
 Example video:
 
 ```{youtube} J6NllC8Hu6U 
+---
+width: 100%
+---
 ```
