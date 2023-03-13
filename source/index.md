@@ -20,6 +20,7 @@ skill-tree
 mechanics
 photon-arts
 equipment
+subclass
 references
 credits
 
