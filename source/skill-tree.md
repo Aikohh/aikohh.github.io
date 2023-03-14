@@ -118,7 +118,7 @@ width: 100%
 _Using Hot Marmelo Parry to execute a held Wulfen Raid Photon Art without interruption._
 
 ```{note}
-Although Hot Marmelo Parry does not interrupt your attacks, it _can_ interrupt transitions between tapped and held variants of certain actions. This includes the transition between guarding with Marmelo and getting read to throw Marmelo by holding down the Weapon Action, or transitioning between the tapped and held variants of [Photon Arts](#photon-arts).
+Although Hot Marmelo Parry does not interrupt your attacks, it _can_ interrupt transitions between tapped and held variants of certain actions. This includes the transition between guarding with Marmelo and getting ready to throw Marmelo by holding down the Weapon Action, or transitioning between the tapped and held variants of [Photon Arts](#photon-arts).
 Hot Marmelo Parry **also grants a short period of invincibility frames** after it guards an attack, which may not be desired.
 ```
 
