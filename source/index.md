@@ -1,6 +1,6 @@
-# Aikoh's PSO2:NGS Waker Guide! 
+# Aikoh's Waker Guide! 
 
-Welcome to Aikoh's comprehensive Waker guide!
+Welcome to Aikoh's comprehensive Waker class guide for Phantasy Star Online 2: New Genesis!
 
 ![banner](_static/summoner-luster-banner.png)
 
