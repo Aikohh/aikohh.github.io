@@ -30,3 +30,12 @@ html_theme = 'furo'
 # Book theme documentation: https://sphinx-book-theme.readthedocs.io/en/latest/
 html_static_path = ['_static']
 html_title = 'Waker Guide'
+# html_logo = '_static/UINGSClassWa.png'
+html_favicon = '_static/UINGSClassWa.ico'
+
+html_theme_options = {
+    "announcement": "<em>Important:</em> This website is currently a work-in-progress!",
+    "source_repository": "https://github.com/Aikohh/aikohh.github.io",
+    "source_branch": "main",
+    "source_directory": "source/",
+}

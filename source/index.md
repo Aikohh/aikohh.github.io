@@ -1,4 +1,4 @@
-# Aikoh's Waker Guide! 
+# Aikoh's PSO2:NGS Waker Guide! 
 
 Welcome to Aikoh's comprehensive Waker guide!
 
