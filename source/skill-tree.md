@@ -54,7 +54,7 @@ Attacks from other players, attacks from other weapon types, Familiar Harmony, M
 Holding down the Normal Attack button after performing a Normal Attack, [Linear Drive](#linear-drive), Step Attack, Step Counter, or [Harmonizer Parry Counter](#harmonizer-parry-counter) will spawn a small AoE attack that detonates the Mark on all Marked enemies caught in its radius, dealing a sizable amount of damage.
 
 ```{note}
-You should generally try to only perform an ignition after a Linear Drive or [Harmonizer Parry Counter](#harmonizer-parry-counter) because these are the highest DPS among the other options. 
+You should generally try to only perform an ignition after a [Linear Drive](#linear-drive) or [Harmonizer Parry Counter](#harmonizer-parry-counter) because these are the highest DPS among the other options. 
 However, performing an ignition after a Step Counter or Step Attack is also acceptable if you are cancelling a [Photon Art](#photon-arts) to ignite a Mark as quickly as possible.
 ```
 
