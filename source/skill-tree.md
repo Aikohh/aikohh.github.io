@@ -160,7 +160,7 @@ Can not be performed after a successful guard with [Marmelo Patience](#marmelo-p
 At a specific time after unleashing a [Photon Art](#photon-arts), perform a Normal Attack to unleash an extra attack that moves you toward or away from your target depending on your directional movement input.
 The timing is indicated by a purple glow that appears on your character shortly after finishing a Photon Art.
 This is a great skill for adjusting your position, and also deals decent damage comparable to a Photon Art.
-Linear Drive also restores PP and applies a good amount of [Treble Clef](#treble-clef-marking).
+Linear Drive also restores PP, applies a good amount of [Treble Clef](#treble-clef-marking), and has invulnerability frames at the start.
 
 ```{video} _static/skill/LinearDrive.mp4
 ---
