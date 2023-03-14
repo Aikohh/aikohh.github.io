@@ -1,15 +1,12 @@
 # Introduction
 
-Waker wields a Harmonizer and uses the power of friendship and bonds with entities known as Familiars to defeat foes.
+_Waker_ uses a [Harmonizer](#harmonizers) to summon photonic beings called _Familiars_ that can attack, defend, or support the Waker in various ways.
+Waker currently has three different Familiars: 
+[Fredan](#fredran), a ranged attacker that is effective for dealing with enemies at all distances; 
+[Wulfen](#wulfen), a melee fighter that can unleash powerful strikes at close range; 
+and [Marmelo](#marmelo), a defender and counter-attacker that can block incoming attacks and deal back massive damage when thrown. 
 
-Waker is one of the highest actions-per-minute (APM) classes in the game, requiring many fast button presses to play optimally especially against aggressive enemies like Ikusa Bujin (found in Geometric Labyrinth). Not only that, but every action has to be carefully timed due to unforgiving animation locks.
+To play Waker effectively, you need to master the use of your Familiars and their [Photon Arts](#photon-arts). 
+It requires balancing the [Focus Gauges](#harmonizer-focus) of each Familiar and utilizing other [class skills](#core-skills) depending on the situation.
 
-Example video:
-
-```{video} _static/bujin_start.mp4
----
-width: 100%
----
-```
-
-Knowing your enemy's attack pattern is half the battle. 
+But first, you need to put points into your [Skill Tree](#skill-tree)!

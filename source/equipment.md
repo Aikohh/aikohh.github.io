@@ -1,8 +1,13 @@
 # Equipment 
 
+```{warning}
+This page is incomplete.
+```
+
 Waker wields a Harmonizer
 
-## Weapons
+(harmonizers)=
+## Harmonizers
 
 Neos Astrean with Fatale 5 is the best Harmonizer in the game
 
@@ -18,3 +23,7 @@ Eclairer armor is the best, followed by Ajax and then Efitus
 ## Augments
 
 Halphinale is the best ale
+
+## Fixas
+
+Fatale is the best
