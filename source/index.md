@@ -6,7 +6,7 @@ Welcome to Aikoh's comprehensive Waker guide!
 
 _In a nutshell: Waker = Summoner + Luster!_
 
-Waker is a versatile class that performs well in any situation you can throw at it, thanks to its variety of Familiars and skills.
+Waker is a versatile class that performs well in any situation you can throw at it, thanks to its variety of Familiars, skills, and ultra-high mobility!
 However, it is also one of the most complex and difficult classes to master due to the sheer number of mechanics involved and the unforgiving animation locks on nearly every action.
 
 Waker is also one of the highest actions-per-minute (APM) classes in the game, requiring many fast button presses to play optimally especially against aggressive enemies like Ikusa Bujin (found in Geometric Labyrinth). Not only that, but every action has to be carefully timed (again, due to unforgiving animation locks).
