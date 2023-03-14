@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Aikoh's Waker Guide"
-copyright = 'Aikoh'
+copyright = ' 2023, Aikoh'
 author = 'Aikoh'
 
 # -- General configuration ---------------------------------------------------
@@ -30,7 +30,6 @@ html_theme = 'furo'
 # Book theme documentation: https://sphinx-book-theme.readthedocs.io/en/latest/
 html_static_path = ['_static']
 html_title = 'Waker Guide'
-# html_logo = '_static/UINGSClassWa.png'
 html_favicon = '_static/UINGSClassWa.ico'
 
 html_theme_options = {

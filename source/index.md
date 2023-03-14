@@ -1,4 +1,4 @@
-# Aikoh's Waker Guide! 
+# Aikoh's Waker Guide
 
 Welcome to Aikoh's comprehensive Waker class guide for Phantasy Star Online 2: New Genesis!
 
@@ -57,3 +57,13 @@ credits
 * {ref}`modindex`
 * {ref}`search`
  -->
+
+<!--  HTML Metadata  -->
+
+```{raw} html
+<meta content="Aikoh's Waker Guide" property="og:title" />
+<meta content="A comprehensive guide to the Waker class in Phantasy Star Online 2: New Genesis" property="og:description" />
+<meta content="https://aikohh.github.io/" property="og:url" />
+<meta content="https://aikohh.github.io/_static/phantasy-star-online-2-new-genesis-logo.png" property="og:image" />
+<meta content="#FF794A" data-react-helmet="true" name="theme-color" />
+```
