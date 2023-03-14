@@ -38,7 +38,7 @@ Reduced PP consumption after using Familiar Harmony. It's good for managing your
 (treble-clef-marking)=
 ### ![icon](_static/skill/38px-NGSUISkillTrebleClefMarking.png) Treble Clef Marking 
 Hitting the same enemy enough times will accumulate Treble Clef until the enemy becomes afflicted with a Mark.
-Marked enemies take increased damage (+3%) and take increased down (+20% to both Physical and Elemental Down Factors) from Harmonizer [Photon Arts](#photon-arts).
+Marked enemies take increased damage (+3%) and down (+20% to both Physical and Elemental Down Factors) from Harmonizer [Photon Arts](#photon-arts).
 Different attacks apply differing amounts of Treble Clef (see [Frame Data](#frame-data)).
 The Mark lasts for 30 seconds unless its duration is refreshed by attacking the enemy again, or it is removed using [Treble Clef Ignition](#treble-clef-ignition)
 
