@@ -38,7 +38,7 @@ Reduced PP consumption after using Familiar Harmony. It's good for managing your
 (treble-clef-marking)=
 ### ![icon](_static/skill/38px-NGSUISkillTrebleClefMarking.png) Treble Clef Marking 
 Hitting the same enemy enough times will accumulate Treble Clef until the enemy becomes afflicted with a Mark.
-Marked enemies take increased damage (+3%) and take increased down (+20% to both Physical and Elemental Down Factors).
+Marked enemies take increased damage (+3%) and take increased down (+20% to both Physical and Elemental Down Factors) from Harmonizer [Photon Arts](#photon-arts).
 Different attacks apply differing amounts of Treble Clef (see [Frame Data](#frame-data)).
 The Mark lasts for 30 seconds unless its duration is refreshed by attacking the enemy again, or it is removed using [Treble Clef Ignition](#treble-clef-ignition)
 
@@ -72,16 +72,16 @@ width: 100%
 After activating [Treble Clef Ignition](#treble-clef-ignition), you will summon a _crest_ that periodically inflicts damage to your target.
 This damage also accumulates [Harmonizer Focus](#harmonizer-focus) for Fredran or Wulfen.
 The particular Familiar it accumulates Harmonizer Focus for is determined by the last [Photon Art](#photon-arts) used before activating Treble Clef Ignition. (e.g., using a Fredran Photon Art before Treble Clef Ignition will summon a blue Fredran crest that periodically attacks to increase the Fredran Focus Gauge)
-The crest lasts for 20 seconds.
+The crest lasts for 20 seconds or until you die.
 
 ![Familiar Support Crests](_static/skill/FamiliarSupportCrests.png)
 _Fredran crest on the left (blue), Wulfen crest on the right (red)._
 
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarSupportAmplifier.png) Familiar Support Amplifier 
-Each time you summon a crest while one is already active will increase the amount of Harmonizer Focus the crest generates when an attack from the crest lands a hit.
+Each time a crest is summoned while one is already active, the amount of Harmonizer Focus the crest generates with each attack is amplified.
 You can amplify crests up to 2 times, each time boosting the Harmonizer Focus Gauge rate by +50% up to the maximum +100%.
 You can visually tell that a crest is amplified based on how purple-colored it is.
-A crest retains its amplification level until the crest naturally expires after 20 seconds. 
+A crest retains its amplification level until the crest naturally expires after 20 seconds, or you die.
 If you let the crest expire, a new crest you summon will not be amplified and it will need to be amplified again.
 
 ```{note}
@@ -94,12 +94,12 @@ _Non-amplified Wulfen crest on the left. 50% amplified Wulfen crest in the middl
 (marmelo-strike)=
 ### ![icon](_static/skill/38px-NGSUISkillMarmeloStrike.png) Marmelo Strike 
 Allows you to throw Marmelo by holding and letting go of the Weapon Action, and unlocks Marmelo's Focus Gauge.
-Unlike Wulfen and Fredran's Focus Gauges, Marmelo's Focus Gauge is only increased by guarding an attack with the Weapon Action or [Hot Marmelo Parry](#hot-marmelo-parry).
-Each time you guard an attack with the Weapon Action, Marmelo grows in size, increasing Marmelo's gauge up to 2 stages.
+Unlike Wulfen and Fredran's Focus Gauges, Marmelo's Focus Gauge is only increased by guarding an attack with the Weapon Action, [Hot Marmelo Parry](#hot-marmelo-parry), or [Marmelo Patience](#marmelo-patience).
+Marmelo's Focus Gauge increases depending on the number of attacks Marmelo successfully guarded.
 Guarding one attack grants a Stage 1 Marmelo.
-After guarding 2 attacks, Marmelo remains at Stage 1.
-Guarding 3 attacks grants a Stage 2 Marmelo.
+Guarding three attacks grants a Stage 2 Marmelo.
 Generally, you should only throw Marmelo at Stage 2.
+The current stage of Marmelo can be seen in the hotbar and also manifests in Marmelo's physical size.
 
 ![Marmelo Strike Stages](_static/skill/MarmeloStrikeStages.png)
 _Marmelo at different stages depending on the gauge. Initially, Marmelo is small at Stage 0 (indicated by the 0 bars in its gauge). After guarding one or two attacks with the Weapon Action, Marmelo advances to Stage 1, increasing in size and damage when thrown. After guarding three or more attacks, Marmelo advances to Stage 2 in which size and damage are maximized._
@@ -148,16 +148,16 @@ width: 100%
 
 ### ![icon](_static/skill/38px-NGSUISkillHarmonizerParryPPGain.png) Harmonizer Parry PP Gain 
 Regain PP when you successfully guard with the Weapon Action.
-Does not work with [Marmelo Patience](#marmelo-patience).
+Does not apply to [Hot Marmelo Parry](#hot-marmelo-parry) or [Marmelo Patience](#marmelo-patience).
 
 (harmonizer-parry-counter)=
 ### ![icon](_static/skill/38px-NGSUISkillHarmonizerParryCounter.png) Harmonizer Parry Counter 
 Performing a Normal Attack after successfully guarding an attack with the Weapon Action unleashes a strong counter attack.
-Does not apply to [Hot Marmelo Parry](#hot-marmelo-parry) or [Marmelo Patience](#marmelo-patience).
+Can not be performed after a successful guard with [Marmelo Patience](#marmelo-patience) or [Hot Marmelo Parry](#hot-marmelo-parry).
 
 (linear-drive)=
 ### ![icon](_static/skill/38px-NGSUISkillLinearDrive.png) Linear Drive 
-At a specific time after unleashing a [Photon Art](#photon-arts), perform a Normal Attack to unleash an extra attack that moves you toward or away your target depending on your directional movement input.
+At a specific time after unleashing a [Photon Art](#photon-arts), perform a Normal Attack to unleash an extra attack that moves you toward or away from your target depending on your directional movement input.
 This is a great skill for adjusting your position, and also deals decent damage comparable to a Photon Art.
 Linear Drive also restores PP and applies a good amount of [Treble Clef](#treble-clef-marking).
 

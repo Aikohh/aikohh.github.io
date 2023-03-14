@@ -2,7 +2,7 @@
 
 _Waker_ uses a [Harmonizer](#harmonizers) to summon photonic beings called _Familiars_ that can attack, defend, or support the Waker in various ways.
 Waker currently has three different Familiars: 
-[Fredan](#fredran), a ranged attacker that is effective for dealing with enemies at all distances; 
+[Fredran](#fredran), a ranged attacker that is effective for dealing with enemies at all distances; 
 [Wulfen](#wulfen), a melee fighter that can unleash powerful strikes at close range; 
 and [Marmelo](#marmelo), a defender and counter-attacker that can block incoming attacks and deal back massive damage when thrown. 
 

@@ -2,6 +2,10 @@
 
 Welcome to Aikoh's comprehensive Waker guide!
 
+![banner](_static/summoner-luster-banner.png)
+
+_In a nutshell: Waker = Summoner + Luster!_
+
 Waker is a versatile class that performs well in any situation you can throw at it, thanks to its variety of Familiars and skills.
 However, it is also one of the most complex and difficult classes to master due to the sheer number of mechanics involved and the unforgiving animation locks on nearly every action.
 
