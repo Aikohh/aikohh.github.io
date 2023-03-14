@@ -65,7 +65,7 @@ width: 100%
 ```
 
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarHarmonyMarkingClef.png) Familiar Harmony Marking Clef 
-[Familiar Harmony](#familiar-harmony) will Mark an enemy. Enables some new rotations and makes it easier to upkeep Familiar Support
+[Familiar Harmony](#familiar-harmony) will Mark an enemy. Enables some new rotations that upkeep both the [Treble Clef Mark](#treble-clef-marking) and [Familiar Support](#familiar-support) simultaneously to maximize DPS, Down Factor, and Familiar Harmony generation.
 
 (familiar-support)=
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarSupport.png) Familiar Support 
