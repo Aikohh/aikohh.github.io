@@ -31,9 +31,6 @@ Braver", "Critical Hit Rate Up", "Restasigne Heal Amount Up"
 "![icon](_static/class/UINGSClassFi.png) \
 Fighter", "Critical Hit Potency Up", "Jump Power Up"
 
-"![icon](_static/class/UINGSClassBo.png) \
-Bouncer", "Dash and Glide PP Recovery", "Encore Jump"
-
 "![icon](_static/class/UINGSClassWa.png) \
 Waker", "PP Up", "Stationary HP Recovery"
 
@@ -42,6 +39,9 @@ Techter", "Natural PB Gauge Accumulation Up", "Damage Resistance Up"
 
 "![icon](_static/class/UINGSClassGu.png) \
 Gunner", "Offensive PB Gauge Accumulation Up", "Offensive PP Recovery Up"
+
+"![icon](_static/class/UINGSClassBo.png) \
+Bouncer", "Dash and Glide PP Recovery", "Encore Jump"
 
 "![icon](_static/class/UINGSClassHu.png) \
 Hunter", "Melee Potency Up", "PA Charge Movement Speed Up"
