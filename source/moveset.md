@@ -45,7 +45,7 @@ About to get hit? You should prioritize using one of these --- namely the [Harmo
 
 Performed by pressing the Normal Attack button immediately after a successful dodge.
 Its DPS is roughly on par with [Photon Arts](#photon-arts) but doesn't help fill [Harmonizer Focus](#harmonizer-focus).
-However, it does generates a good amount of [Treble Clef](#treble-clef-marking). 
+However, it does generate a good amount of [Treble Clef](#treble-clef-marking). 
 It is generally recommended to use a [Dodge Counter](#dodge-counter) over a [Harmonizer Parry Counter](#wa-counter) if and only if Marmelo Focus is already at its maximum (Stage 2), the enemy is not Marked, and you are unable to fit in held Photon Arts to build both Treble Clef and Harmonizer Focus simultaneously.
 
 (wa-counter)=
@@ -122,6 +122,7 @@ width: 100%
 ## Photon Arts
 
 In general, each Photon Art has two variants: Tapped and Held.
+Transitioning between a tapped and held variant of a Photon Art consumes 10 additional PP.
 The tapped variants of Photon Arts don't generate much [Treble Clef](#treble-clef-marking), while the held variants of Photon Arts generate a lot of it.
 Held variants of Photon Arts also generally have lenghthier animations, and thus you should utilize [Hot Marmelo Parry](#hot-marmelo-parry) to keep yourself safe from danger while executing held Photon Arts.
 
@@ -183,7 +184,7 @@ width: 100%
 #### Held
 
 Ride on Fredran's back indefinitely until you let go.
-You will be unaffected by gravity for the first 2 seconds, after which you will start slowly falling down.
+You will have a speed boost and be unaffected by gravity for the first 2 seconds, after which you will start slowly falling down and move at regular gliding speed.
 After letting go of the button, you will jump off Fredran's back, and Fredran will charge towards your target, dealing high damage.
 
 Although the forced movement and lengthy animations make held Fredran Riding rather clunky to use, it is still good for generating high amounts of Fredran [Harmonizer Focus](#harmonizer-focus) and [Treble Clef](#treble-clef-marking) at the same time. It can also be used for precharging during short windows of downtime that would be too short for a long held [Wulfen Demolition](#wulfen-demolition).
@@ -206,7 +207,7 @@ There are guard frames at the start of the dash attack and at the start of the u
 You can cancel this Photon Art between the dash and the uppercut with a Dodge or a Weapon Action.
 
 ```{note}
-Repeatedly casting and dodge-cancelling tapped Wulfen Raid after the dash attack is the fastest movement in the game!
+If you have a target to lock onto, repeatedly casting and dodge-cancelling tapped Wulfen Raid after the dash attack is the fastest movement in the game!
 ```
 
 Tapped Wulfen Raid is great for filler DPS in between counter attacks against aggressive enemies.
@@ -225,7 +226,8 @@ Unless you hold the forward directional input, the kick will push you backwards.
 There is no damage difference holding the forward directional input versus not.
 There are guard frames during the final kick, and you can cancel the Photon Art during the transition between the spin attack and the kick by using a Dodge or a Weapon Action. 
 
-Held Wulfen Raid is the Photon Art you want to be using the most often, as it deals high DPS and generates a lot of Wulfen [Harmonizer Focus](#harmonizer-focus) and [Treble Clef](#treble-clef-marking).
+Held Wulfen Raid is the Photon Art you want to be using the most often, as it deals high DPS and generates a lot of Wulfen [Harmonizer Focus](#harmonizer-focus) and [Treble Clef](#treble-clef-marking). 
+Although it is technically not higher DPS than tapped Wulfen Raid (unless you are cancelling after the 5-hit spin attack with a [Counter Attack](#counters)), it is more PP efficient.
 
 ```{video} _static/PA/WulfenRaidHeldBackwards(default).mp4
 ---
