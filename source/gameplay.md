@@ -23,7 +23,7 @@ For exact Treble Clef application numbers of each attack, refer to the [Frame Da
 With the introduction of the skill [Familiar Harmony Marking Clef](#familiar-harmony-marking-clef), Waker's DPS has been able to reach new heights by utilizing [Familiar Harmony](#familiar-harmony) after [Treble Clef Ignition](#treble-clef-ignition) to maximize Mark uptime. This allows for the following example DPS rotation:
 
 > 1. Short-held [Wulfen Demolition](#wulfen-demolition) if it is a stationary target, otherwise use Held [Wulfen Raid](#wulfen-raid)
-> 1. Held [Wulfen Raid](#wulfen-raid). If required, repeat once to obtain 1 [Wulfen Stock](#harmonizer-focus)
+> 1. Held [Wulfen Raid](#wulfen-raid) x2 (+1 more if needed to get 1 [Wulfen Stock](#harmonizer-focus))
 > 1. Tapped [Fredran Riding](#fredran-riding). Repeat until 1 [Fredran Stock](#harmonizer-focus) is obtained
 > 1. Backwards [Linear Drive](#linear-drive)
 > 1. [Treble Clef Ignition](#treble-clef-ignition) (Summons a Fredran [Familiar Support](#familiar-support) crest)
