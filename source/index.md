@@ -1,5 +1,7 @@
 # Aikoh's Waker Guide
 
+Written by Aikoh#6996
+
 Welcome to Aikoh's comprehensive Waker class guide for Phantasy Star Online 2: New Genesis!
 
 ![banner](_static/summoner-luster-banner.png)
@@ -9,7 +11,7 @@ _In a nutshell: Waker = Summoner + Luster!_
 Waker is a versatile class that performs well in any situation you can throw at it, thanks to its variety of Familiars and skills, while also having the greatest mobility out of all the other classes!
 However, it is also one of the most complex and difficult classes to master due to the sheer number of mechanics involved and the unforgiving animation locks on nearly every action.
 
-Waker is one of the highest actions-per-minute (APM) classes in the game, requiring many fast button presses to play optimally especially against aggressive enemies like Ikusa Bujin (found in Geometric Labyrinth). Not only that, but every action has to be carefully timed (again, due to unforgiving animation locks).
+Waker is also one of the highest actions-per-minute (APM) classes in the game, requiring many fast button presses to play optimally especially against aggressive enemies like Ikusa Bujin (found in Geometric Labyrinth). Not only that, but every action has to be carefully timed (again, due to unforgiving animation locks).
 
 ```{video} _static/bujin_start.mp4
 ---
