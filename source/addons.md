@@ -52,7 +52,7 @@ Ranger", "Ranged Potency Up", "Photon Blast Potency Up"
 ```
 
 ```{note}
-If you play Melee and Ranged classes, then the Hunter and Ranger Addon-Skills are moved closer to the top of the list to maximize their damage output.
+If you play Melee and Ranged classes, then the Hunter and Ranger Add-on Skills should be moved closer to the top of the list to maximize their damage output.
 ```
 
 ## Encore Jump and Wulfen Demolition
