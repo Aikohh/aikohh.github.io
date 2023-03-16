@@ -282,6 +282,8 @@ It can also be used while mobbing for filling up your Wulfen [Harmonizer Focus G
 An enemy hit by a long-held Wulfen Demolition will instantly become [Marked](#treble-clef-marking)!
 ```
 
+Another tip with this attack is, in some cases, you can utilize the Encore Jump [Add-on Skill](#add-on-skills) from the Bouncer class to deal damage while charging Wulfen Demolition.
+
 ```{video} _static/PA/WulfenDemolitionLongHold.mp4
 ---
 width: 100%
@@ -294,3 +296,12 @@ width: 100%
 For specific Potency distributions, Physical down, Elemental down, Familiar Focus gauge, Treble Clef, timings on attack animation lengths, invulnerability frames, and guard frames for each attack, refer to the following frame data spreadsheets:
 * [NGS Verification Data Storage](https://docs.google.com/spreadsheets/d/1_OgubzM5QFe4rua4Xu0GSMAI8Idoq8r2yI8Ioyec6oY/edit#gid=932674549)
 * [PSO2NGS Frame Data](https://docs.google.com/spreadsheets/d/1YEg-6eViChVV7HDDlNlgFPJf3qbyIUeAlLYPr9b99t0/edit#gid=329460957)
+
+
+```{raw} html
+<meta content="Waker's Moveset" property="og:title" />
+<meta content="Waker has a wide variety of attacks it can utilize in combat. Here is a breakdown of each one and how they should be used." property="og:description" />
+<meta content="https://aikohh.github.io/moveset.html" property="og:url" />
+<meta content="https://aikohh.github.io/_static/class/UINGSClassWa.png" property="og:image" />
+<meta content="#FF794A" data-react-helmet="true" name="theme-color" />
+```

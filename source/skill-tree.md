@@ -223,3 +223,10 @@ width: 100%
 ---
 ```
 
+```{raw} html
+<meta content="Waker Skill Tree" property="og:title" />
+<meta content="How to allocate skill points in the Waker skill tree, and a brief explanation of each skill with some tips along the way." property="og:description" />
+<meta content="https://aikohh.github.io/skill-tree.html" property="og:url" />
+<meta content="https://aikohh.github.io/_static/class/UINGSClassWa.png" property="og:image" />
+<meta content="#FF794A" data-react-helmet="true" name="theme-color" />
+```

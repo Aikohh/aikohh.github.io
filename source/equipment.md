@@ -31,7 +31,7 @@ Effulgent ![fire](_static/element/NGSUITechFireMini.png)", "Lv.60", "674", "Pote
 (weapon-preset-skills)=
 ### Preset Skills
 
-The recommended Preset Skill for weapons is Fatale for higher crit rates to mitigate [damage variance](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Damage_Calculation#Weapon_Variance).
+The recommended Preset Skill for weapons is **Fatale** for higher crit rates to mitigate [weapon damage variance](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Damage_Calculation#Weapon_Variance).
 See this [weapon damage spreadsheet](https://docs.google.com/spreadsheets/d/1gZaK_zZJ2DkrsDCajCjwdVUKspokNPMvXoGgM6yOxJI) to compare the damage outputs of various Weapon Series and Preset Skills.
 
 ### Multiweapon
@@ -78,8 +78,84 @@ PP +4 \
 
 ### Preset Skills
 
-Preset Skills on armors are not necessary (especially given Waker's excellent PP economy) but Performa and high level Enthusia Preset Skills are considered the best.
+Preset Skills on armors are not necessary (especially given Waker's excellent PP economy) but **Performa** and high level **Enthusia** Preset Skills are considered the best. Performa is preferred over Enthusia.
 
 ## Augments
 
-Halphinale is the best ale
+Augmenting weapons and armor is rather straight-forward.
+The Harmonizer is a Technique weapon and therefore scales off of Technique Weapon Potency.
+Use augments with the highest Potency you can get, and secondarily maximize Potency Floor to raise your average DPS due to [weapon damage variance](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Damage_Calculation#Weapon_Variance).
+
+For non-potency stats such as HP, PP, Damage Resistance, it is up to you how much you value them based on your skill level and playstyle. Non-potency stats are ignored in the ranking below.
+
+Here are all current the top augments ranked from best to worst:
+
+```{csv-table}
+---
+header: >
+  "Rank", "Augments", "Potency"
+widths: 5, 15, 20
+align: center
+---
+
+"1", "Halphinale", "+4.0% Potency"
+
+"2", "Addi Deftmeltech \
+Addi Deftratech", "+3.0% Potency \
++2.75% Potency Floor"
+
+"3", "Mastery IV \
+Alts Secreta IV", "+2.5% Potency \
++2.5% Potency Floor"
+
+"4", "Addi Spimeltech \
+Addi Spiratech \
+Addi Stameltech \
+Addi Staratech \
+Addi Guameltech \
+Addi Guaratech \
+Addi Wardmeltech \
+Addi Wardratech", "+3.0% Potency \
++1.0% Potency Floor"
+
+"5", "Nils Soul IV \
+Nex Soul IV \
+Ams Soul IV \
+Aegis Soul IV \
+Renus Soul IV \
+Gigas Technique IV \
+Technique IV \
+Stira Domina", "+3.0% Potency"
+
+"6", "Meltech Dualble IV \
+Ratech Dualble IV", "+2.75% Potency"
+```
+
+The above list contains both cheap and expensive augments, so just go down the list and get what you can afford given your own budget. Example builds:
+
+Minmax (most expensive)
+> Halphinale \
+> Addi Deftratech \
+> Mastery IV \
+> Alts Secreta IV \
+> Nils Soul IV
+
+Budget (cheapest)
+> Alts Secreta IV \
+> Nils Soul IV \
+> Technique IV \
+> Stira Domina \
+> Meltech Dualble IV
+
+```{note}
+Augments not mentioned above are not to be considered and should be replaced as soon as possible.
+However, even worse would be to have empty augment slots because Potency stacks multiplicatively and you will be losing out on even more damage by having empty augment slots.
+```
+
+```{raw} html
+<meta content="Waker Equipment" property="og:title" />
+<meta content="You can't be a good Waker without at least some half-decent equipment. Here are some recommendations." property="og:description" />
+<meta content="https://aikohh.github.io/equipment.html" property="og:url" />
+<meta content="https://aikohh.github.io/_static/class/UINGSClassWa.png" property="og:image" />
+<meta content="#FF794A" data-react-helmet="true" name="theme-color" />
+```

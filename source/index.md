@@ -27,12 +27,7 @@ This guide was written to document what Waker does and how to play it effectivel
 Go on to the [Introduction](#introduction) section if you wish to learn more about Waker!
 
 ```{note}
-This guide was last updated on March 15, 2022.
-```
-
-```{warning}
-This website is currently a work-in-progress.
-Everything is subject to change.
+This guide was last updated on March 16, 2022.
 ```
 
 ```{toctree} 
@@ -66,6 +61,6 @@ credits
 <meta content="Aikoh's Waker Guide" property="og:title" />
 <meta content="A comprehensive guide to the Waker class in Phantasy Star Online 2: New Genesis" property="og:description" />
 <meta content="https://aikohh.github.io/" property="og:url" />
-<meta content="https://aikohh.github.io/_static/UINGSClassWa.png" property="og:image" />
+<meta content="https://aikohh.github.io/_static/class/UINGSClassWa.png" property="og:image" />
 <meta content="#FF794A" data-react-helmet="true" name="theme-color" />
 ```

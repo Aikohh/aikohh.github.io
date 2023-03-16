@@ -33,7 +33,7 @@ html_title = 'Waker Guide'
 html_favicon = '_static/UINGSClassWa.ico'
 
 html_theme_options = {
-    "announcement": "<em>Important:</em> This website is currently a work-in-progress!",
+    "announcement": "<em>Important:</em> The content on this website is currently under review!",
     "source_repository": "https://github.com/Aikohh/aikohh.github.io",
     "source_branch": "main",
     "source_directory": "source/",

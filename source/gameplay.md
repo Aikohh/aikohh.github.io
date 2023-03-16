@@ -61,3 +61,12 @@ _Guarding against two attacks in quick succession with the Weapon Action to buil
 ```{note}
 This trick won't work by performing a [Hot Marmelo Parry](#hot-marmelo-parry) and then Weapon Action because Hot Marmelo Parry gives invulnerability frames after guarding an attack that will prevent the subsequent Weapon Action from guarding the next attack. 
 ```
+
+```{raw} html
+<meta content="Waker Gameplay Tips" property="og:title" />
+<meta content="Various gameplay tips for getting the most out of Waker." property="og:description" />
+<meta content="https://aikohh.github.io/gameplay.html" property="og:url" />
+<meta content="https://aikohh.github.io/_static/class/UINGSClassWa.png" property="og:image" />
+<meta content="#FF794A" data-react-helmet="true" name="theme-color" />
+```
+
