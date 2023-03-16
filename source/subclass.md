@@ -1,9 +1,5 @@
 # Subclasses
 
-```{warning}
-This page is incomplete.
-```
-
 ## Recommended
 
 ### Force
