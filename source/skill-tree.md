@@ -17,7 +17,12 @@ Increase the Focus Gauges by using their respective [Photon Arts](#photon-arts) 
 Completely filling one gauge grants a _stock_ for that Familiar.
 Up to 2 stocks can be gained by default.
 
-![Harmonizer Focus Gauges](_static/skill/HarmonizerFocusGauge.png) 
+```{note}
+Different types of enemies generate more or less Harmonizer Focus when attacked.
+Generally, attacking weaker enemies (mobs) will generate less focus than attacking a boss enemy.
+```
+
+![Harmonizer Focus Gauges](_static/skill/HarmonizerFocusGauge.png)  
 _Harmonizer Focus unlocks Fredran and Wulfen's Focus Gauges, shown above the hotbar. The blue and red numbers indicate the number of stocks of Fredran and Wulfen focus respectively._
 
 ### ![icon](_static/skill/38px-NGSUISkillHarmonizerFocusExtra.png) Harmonizer Focus Extra 
