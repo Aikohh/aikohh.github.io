@@ -13,7 +13,7 @@ Constantly upkeeping a [Treble Clef Mark](#treble-clef-marking) on an enemy is i
 1. Igniting a mark with [Treble Clef Ignition](#treble-clef-ignition) summons a [Familiar Support](#familiar-support) crest, which can be amplified with [Familiar Support Amplifier](#familiar-support-amplifier) by summoning another crest while one is already active
 
 To apply a Treble Clef Mark to an enemy, you need to build it up by attacking the same enemy multiple times.
-Generally, two held [Photon Arts](#photon-arts) and one or two [Linear Drives](#linear-drive) is enough to Mark an enemy. 
+Generally, two held [Photon Arts](#photon-arts) plus one or two [Linear Drives](#linear-drive) is enough to Mark an enemy. 
 The primary exceptions are long-held [Wulfen Demolition](#wulfen-demolition) and [Familiar Harmony](#familiar-harmony) with [Familiar Harmony Marking Clef](#familiar-harmony-marking-clef), which can Mark an enemy in a single hit.
 
 For exact Treble Clef application numbers of each attack, refer to the [Frame Data](#frame-data) spreadsheets. 
