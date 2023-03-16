@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Aikoh's Waker Guide"
-copyright = ' 2023, Aikoh'
+copyright = ' 2023, Sega'
 author = 'Aikoh'
 
 # -- General configuration ---------------------------------------------------

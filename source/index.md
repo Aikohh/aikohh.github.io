@@ -27,7 +27,7 @@ This guide was written to document what Waker does and how to play it effectivel
 Go on to the [Introduction](#introduction) section if you wish to learn more about Waker!
 
 ```{note}
-This guide was last updated on March 13, 2022.
+This guide was last updated on March 15, 2022.
 ```
 
 ```{warning}
@@ -43,7 +43,8 @@ maxdepth: 2
 
 introduction
 skill-tree
-photon-arts
+moveset
+gameplay
 equipment
 subclass
 references

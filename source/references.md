@@ -1,10 +1,6 @@
 # References 
 
-```{warning}
-This page is incomplete.
-```
-
-Here is a list of notable YouTube channels for Waker gameplay showcases to use as reference
+Here is a list of notable YouTube channels with Waker gameplay showcases to use as reference
 
 * [Uber](https://www.youtube.com/@TheuberClips)
 * [monosashi](https://www.youtube.com/@user-uo9ug5rl4y)
@@ -12,10 +8,10 @@ Here is a list of notable YouTube channels for Waker gameplay showcases to use a
 * [Aikoh](https://www.youtube.com/@Aikoh)
 * [Mirumi](https://www.youtube.com/@mirumi3115)
 
-Example video:
+<!-- Example video:
 
 ```{youtube} J6NllC8Hu6U 
 ---
 width: 100%
 ---
-```
+``` -->

@@ -1,6 +1,7 @@
 # Skill Tree 
 
-Depicted below is Waker's skill tree and an example skill-point allocation among the skills.
+Depicted below is Waker's skill tree and an example skill-point allocation among the skills.  
+Afterwards each skill is explained in detail and with some general tips given when they apply.
 
 ![Waker Skill Tree](_static/wa-skill-tree.png)
 
@@ -51,11 +52,11 @@ Attacks from other players, attacks from other weapon types, Familiar Harmony, M
 
 (treble-clef-ignition)=
 ### ![icon](_static/skill/38px-NGSUISkillTrebleClefIgnition.png) Treble Clef Ignition 
-Holding down the Normal Attack button after performing a Normal Attack, [Linear Drive](#linear-drive), Step Attack, Step Counter, or [Harmonizer Parry Counter](#harmonizer-parry-counter) will spawn a small AoE attack that detonates the Mark on all Marked enemies caught in its radius, dealing a sizable amount of damage.
+Holding down the Normal Attack button after performing a Normal Attack, [Linear Drive](#linear-drive), [Dodge Attack](#dodge-attack), [Dodge Counter](#dodge-counter), or [Harmonizer Parry Counter](#harmonizer-parry-counter) will spawn a small AoE attack that detonates the Mark on all Marked enemies caught in its radius, dealing a sizable amount of damage.
 
 ```{note}
-You should generally try to only perform an ignition after a [Linear Drive](#linear-drive) or [Harmonizer Parry Counter](#harmonizer-parry-counter) because these are the highest DPS among the other options. 
-However, performing an ignition after a Step Counter or Step Attack is also acceptable if you are cancelling a [Photon Art](#photon-arts) to ignite a Mark as quickly as possible.
+You should generally try to only perform an ignition after a [Linear Drive](#linear-drive) or [Harmonizer Parry Counter](#harmonizer-parry-counter) because these are the highest damage-per-second (DPS) among the other options. 
+However, performing an ignition after a [Dodge Attack](#dodge-attack) or [Dodge Counter](#dodge-counter) is also acceptable if you are cancelling a [Photon Art](#photon-arts) to ignite a Mark as quickly as possible.
 ```
 
 ```{video} _static/skill/TrebleClefIgnition.mp4
@@ -64,6 +65,7 @@ width: 100%
 ---
 ```
 
+(familiar-harmony-marking-clef)=
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarHarmonyMarkingClef.png) Familiar Harmony Marking Clef 
 [Familiar Harmony](#familiar-harmony) will Mark an enemy. Enables some new rotations that upkeep both the [Treble Clef Mark](#treble-clef-marking) and [Familiar Support](#familiar-support) simultaneously to maximize DPS, Down Factor, and Familiar Harmony generation.
 
@@ -77,6 +79,7 @@ The crest lasts for 20 seconds or until you die.
 ![Familiar Support Crests](_static/skill/FamiliarSupportCrests.png)
 _Fredran crest on the left (blue), Wulfen crest on the right (red)._
 
+(familiar-support-amplifier)=
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarSupportAmplifier.png) Familiar Support Amplifier 
 Each time a crest is summoned while one is already active, the amount of Harmonizer Focus the crest generates with each attack is amplified.
 You can amplify crests up to 2 times, each time boosting the Harmonizer Focus Gauge rate by +50% up to the maximum +100%.
@@ -140,6 +143,8 @@ Enables opportunities where you can pre-aim and then throw Marmelo when anticipa
 You can use it if you're too lazy to otherwise time perfect Weapon Action guards, and don't mind spending a Restasigne to heal back up.
 Just keep in mind that Marmelo Patience won't allow you to utilize [Harmonizer Parry Counter](#harmonizer-parry-counter).
 
+Also this skill sometimes has a habit of not working :)
+
 ```{video} _static/skill/MarmeloPatience.mp4
 ---
 width: 100%
@@ -157,10 +162,10 @@ Can not be performed after a successful guard with [Marmelo Patience](#marmelo-p
 
 (linear-drive)=
 ### ![icon](_static/skill/38px-NGSUISkillLinearDrive.png) Linear Drive 
-At a specific time after unleashing a [Photon Art](#photon-arts), perform a Normal Attack to unleash an extra attack that moves you toward or away from your target depending on your directional movement input.
+At a specific time after unleashing a [Photon Art](#photon-arts), perform a Normal Attack to unleash an extra attack that moves you toward or away from your target depending on your directional movement input (with the backwards version dealing more damage and applying more [Treble Clef](#treble-clef-marking)).
 The timing is indicated by a purple glow that appears on your character shortly after finishing a Photon Art.
 This is a great skill for adjusting your position, and also deals decent damage comparable to a Photon Art.
-Linear Drive also restores PP, applies a good amount of [Treble Clef](#treble-clef-marking), and has invulnerability frames at the start.
+Linear Drive also restores PP, applies a good amount of Treble Clef, and has invulnerability frames at the start.
 
 ```{video} _static/skill/LinearDrive.mp4
 ---
@@ -168,6 +173,7 @@ width: 100%
 ---
 ```
 
+(linear-drive-encore)=
 ### ![icon](_static/skill/38px-NGSUISkillLinearDriveEncore.png) Linear Drive Encore 
 Allows you to use Linear Drive twice in a row after a single [Photon Art](#photon-arts) instead of only a single time.
 
@@ -177,14 +183,17 @@ width: 100%
 ---
 ```
 
+(optional-skills)=
 ## Optional Skills
 
 These are the skills you dump the rest of your skill points into after taking all the [Core Skills](#core-skills).
 
+(retro-friends-rescue)=
 ### ![icon](_static/skill/38px-NGSUISkillRetroFriendsRescue.png) Retro Friends Rescue 
 When you take damage, you have a chance to reduce the overall amount of damage taken. 
 It's nice to have, and can sometimes save you from death.
 
+(welfare-management)=
 ### ![icon](_static/skill/38px-NGSUISkillWelfareManagement.png) Welfare Management 
 Reduces the damage you take and increases the amount Restasignes heal when your health is below a certain threshold. Also nice to have.
 
