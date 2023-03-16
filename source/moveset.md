@@ -38,7 +38,7 @@ It deals low DPS, so avoid using it for damage.
 (counters)=
 ## Counter Attacks
 
-About to get hit? You should prioritize using one of these --- namely the [Harmonizer Parry Counter](#wa-counter) --- unless you need to perform another action such as a [Treble Clef Ignition](#treble-clef-ignition) and can protect yourself with [Hot Marmelo Parry](#hot-marmelo-parry).
+About to get hit? You should prioritize using one of these --- namely the [Harmonizer Parry Counter](#wa-counter) --- unless you need to perform a more important action such as [throwing a Stage 2 Marmelo](#marmelo) and can protect yourself with [Hot Marmelo Parry](#hot-marmelo-parry).
 
 (dodge-counter)=
 ### Dodge Counter
