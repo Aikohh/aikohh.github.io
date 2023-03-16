@@ -278,7 +278,9 @@ There are guard frames on the release of this attack.
 This Photon Art is primarily used for precharging during periods of downtime between enemy spawns or when a boss is not able to be hit for a while.
 It can also be used while mobbing for filling up your Wulfen [Harmonizer Focus Gauge](#harmonizer-focus) quickly, since it has a large AoE and generates a lot of Harmonizer Focus for each enemy it hits.
 
-An enemy hit by a long-held Wulfen Demolition will instantly become [Marked](#treble-clef-marking).
+```{note}
+An enemy hit by a long-held Wulfen Demolition will instantly become [Marked](#treble-clef-marking)!
+```
 
 ```{video} _static/PA/WulfenDemolitionLongHold.mp4
 ---
