@@ -116,7 +116,7 @@ _Marmelo at different stages depending on the gauge. Initially, Marmelo is small
 ### ![icon](_static/skill/38px-NGSUISkillHotMarmeloParry.png) Hot Marmelo Parry 
 Adds an active skill you can activate at _any_ time to have Marmelo guard an attack for you.
 If Hot Marmelo Parry successfully guards an attack, it increases Marmelo's Focus Gauge by one.
-Hot Marmelo Parry does not interrupt your own attacks.
+Hot Marmelo Parry does not interrupt your own attacks, but it does have _hitstop_ which slows your actions when Marmelo guards an attack.
 
 ```{video} _static/skill/HotMarmeloParry.mp4
 ---
