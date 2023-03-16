@@ -36,7 +36,7 @@ This rotation will upkeep a [Treble Clef Mark](#treble-clef-marking) on an enemy
 
 #### Caveats
 
-While this is a good rotation, Waker is not a fixed-rotation class that always repeats exactly the same sequences of actions for optimal DPS. A Waker needs to adapt according to the situation. Some example scenarios:
+While this is a good rotation, **Waker is not a fixed-rotation class that always repeats exactly the same sequences of actions for optimal DPS**. A Waker needs to adapt according to the situation. Some example scenarios:
 
 - If the enemy is attacking, then you should prioritize using your Weapon Action to build up [Marmelo Strike](#marmelo-strike) and counter attack with a [Harmonizer Parry Counter](#harmonizer-parry-counter)
 
@@ -50,4 +50,14 @@ While this is a good rotation, Waker is not a fixed-rotation class that always r
 ## Marmelo Stacking
 
 Against some enemy attacks that hit multiple times, you can quickly tap the Weapon Action in quick succession to build the [Marmelo Focus Gauge](#marmelo-strike) more than once.
-This won't work by performing a [Hot Marmelo Parry](#hot-marmelo-parry) into a Weapon Action because Hot Marmelo Parry gives invulnerability frames after guarding an attack and would prevent the subsequent Weapon Action from guarding the next attack. 
+
+```{video} _static/gameplay/DoubleMarmeloParry.mp4
+---
+width: 100%
+---
+```
+_Guarding against two attacks in quick succession with the Weapon Action to build Marmelo's Focus Gauge from Stage 1 to Stage 2._
+
+```{note}
+This trick won't work by performing a [Hot Marmelo Parry](#hot-marmelo-parry) and then Weapon Action because Hot Marmelo Parry gives invulnerability frames after guarding an attack that will prevent the subsequent Weapon Action from guarding the next attack. 
+```

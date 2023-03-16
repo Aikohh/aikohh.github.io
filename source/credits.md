@@ -1,7 +1,3 @@
 # Credits
 
-```{warning}
-This page is incomplete.
-```
-
-Thanks to the [Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Main_Page) for the class skill icons used in the [Skill Tree](#skill-tree) section.
+Thanks to the [Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Main_Page) for many of the NGS UI icons used across this website.

@@ -47,6 +47,7 @@ moveset
 gameplay
 equipment
 subclass
+addons
 references
 credits
 ```
