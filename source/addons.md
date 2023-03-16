@@ -12,7 +12,7 @@ For more information about Add-on Skills, refer to the [Arks-Visiphone](https://
 You should prioritize Main Effects first before the Sub Effects because Main Effects are guaranteed, monotonically increase in level, and are typically more impactful to gameplay than Sub Effects.
 It can also cost a lot to get Add-on Skills to level 20, so Level 18 is considered to be a suitable stopping point.
 
-Here is a class in which you should obtain and level up your Add-on Skills:
+Here is a class priority in which you should obtain and level up your Add-on Skills:
 
 ```{csv-table}
 ---
