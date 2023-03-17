@@ -5,7 +5,7 @@ You can't be a good Waker without at least some half-decent equipment. Here are 
 (harmonizers)=
 ## Harmonizers
 
-There are the only current weapon series I can recommend using:
+These are the only current weapon series I can recommend using:
 
 ```{csv-table}
 ---
@@ -94,7 +94,7 @@ Here are all current the top augments ranked from best to worst:
 ---
 header: >
   "Rank", "Augments", "Potency"
-widths: 5, 15, 20
+widths: 5, 20, 20
 align: center
 ---
 
