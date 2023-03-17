@@ -38,9 +38,14 @@ This rotation will upkeep a [Treble Clef Mark](#treble-clef-marking) on an enemy
 
 While this is a good rotation, **Waker is not a fixed-rotation class that always repeats exactly the same sequences of actions for optimal DPS**. A Waker needs to adapt according to the situation. Some example scenarios:
 
-- If the enemy is attacking, then you should prioritize using your Weapon Action to build up [Marmelo Strike](#marmelo-strike) and counter attack with a [Harmonizer Parry Counter](#harmonizer-parry-counter)
+- If the enemy is attacking, then you should prioritize using your Weapon Action to build up [Marmelo's Focus Gauge](#marmelo-strike) and counter attack with a [Harmonizer Parry Counter](#harmonizer-parry-counter).
 
-- If your Marmelo focus gauge is full, prioritize throwing Marmelo as soon as possible to deal massive damage and reset Marmelo's focus gauge back to zero so that you don't "waste" subsequent opportunities to charge Marmelo for extra damage
+```{note}
+If after the Weapon Action parry you end up with a full Marmelo Focus Gauge, **you may need to omit using a Harmonizer Parry Counter to be able to immediately throw Marmelo before the next enemy attack occurs** (which is often the case when fighting highly aggressive enemies like Ikusa Bujin).
+It is more DPS to omit the Harmonizer Parry Counter in such cases than to miss the opportunity to charge your next Marmelo Strike
+```
+
+- If your [Marmelo Focus Gauge](#marmelo-strike) is full, prioritize throwing Marmelo as soon as possible to deal massive damage and reset Marmelo's focus gauge back to zero so that you don't waste subsequent opportunities to charge Marmelo for extra damage.
 
 - If your Fredran focus is nearly full, you should consider making a Wulfen [Familiar Support](#familiar-support) crest instead of a Fredran crest to help generate more Wulfen Focus to use more [Familiar Harmonies](#familiar-harmony). The same thing applies vice-versa (Wulfen vs Fredran)
 
@@ -49,7 +54,15 @@ While this is a good rotation, **Waker is not a fixed-rotation class that always
 
 ## Marmelo Stacking
 
-Against some enemy attacks that hit multiple times, you can quickly tap the Weapon Action in quick succession to build the [Marmelo Focus Gauge](#marmelo-strike) more than once.
+Against some enemy attacks that deal multiple instances of damage, you can quickly tap the Weapon Action in quick succession to build the [Marmelo Focus Gauge](#marmelo-strike) more than once.
+
+```{note}
+This does not work if the attack is a single damage instance that lingers; it must be an attack that deals multiple instances of damage.
+```
+
+```{note}
+This trick also won't work by performing a [Hot Marmelo Parry](#hot-marmelo-parry) into a Weapon Action because Hot Marmelo Parry gives invulnerability frames after guarding an attack that will prevent the subsequent Weapon Action from guarding the next attack. 
+```
 
 ```{video} _static/gameplay/DoubleMarmeloParry.mp4
 ---
@@ -58,9 +71,6 @@ width: 100%
 ```
 _Guarding against two attacks in quick succession with the Weapon Action to build Marmelo's Focus Gauge from Stage 1 to Stage 2._
 
-```{note}
-This trick won't work by performing a [Hot Marmelo Parry](#hot-marmelo-parry) and then Weapon Action because Hot Marmelo Parry gives invulnerability frames after guarding an attack that will prevent the subsequent Weapon Action from guarding the next attack. 
-```
 
 ```{raw} html
 <meta content="Waker Gameplay Tips" property="og:title" />
