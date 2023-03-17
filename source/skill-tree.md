@@ -195,8 +195,8 @@ These are the skills you dump the rest of your skill points into after taking al
 
 (retro-friends-rescue)=
 ### ![icon](_static/skill/38px-NGSUISkillRetroFriendsRescue.png) Retro Friends Rescue 
-When you take damage, you have a chance to reduce the overall amount of damage taken. 
-It's nice to have, and can sometimes save you from death.
+When you take sufficiently high damage, you have a 75% chance to recover 30% of your HP.
+It has a 30 second cooldown but is still nice to have because it can sometimes save you from death.
 
 (welfare-management)=
 ### ![icon](_static/skill/38px-NGSUISkillWelfareManagement.png) Welfare Management 
