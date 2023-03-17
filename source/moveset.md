@@ -257,9 +257,9 @@ width: 100%
 A two-hit attack, both hitting in a small circular AoE around you.
 There are guard frames at the start, and you can cancel with a Dodge or Weapon Action during the transition between the two attacks.
 
-Tapped Wulfen Demolition is generally not used for mobbing due to its small AoE, and also generally not used for bossing since [Wulfen Raid](#wulfen-raid) deals more DPS (both tapped and held).
+Tapped Wulfen Demolition is generally not used for mobbing due to its small AoE (unless enemies are very tightly grouped), and also generally not used for bossing since [Wulfen Raid](#wulfen-raid) deals more DPS (both tapped and held).
 However, it is great as a tool for horizontal positioning in mid-air since you can freely move during the Photon Art animation and for a short while afterwards without losing height.
-Furthermore, some weakspots on specific bosses such as Lizentos' spine and Doldoris' battery can sometimes be easier to hit with a tapped Wulfen Demolition than Wulfen Raid.
+Furthermore, weakspots on specific bosses such as Lizentos' spine and Doldoris' battery can sometimes be easier to hit with a tapped Wulfen Demolition than Wulfen Raid.
 
 ```{video} _static/PA/WulfenDemolitionTapped.mp4
 ---
