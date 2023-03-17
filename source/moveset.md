@@ -229,11 +229,13 @@ width: 100%
 
 Holding Wulfen Raid replaces the uppercut of the tapped variant with a 5-hit spin attack, and then follows with a kick.
 Unless you hold the forward directional input, the kick will push you backwards. 
-There is no damage difference holding the forward directional input versus not.
+There is no damage difference between holding the forward directional input versus not.
+
 There are guard frames during the final kick, and you can cancel the Photon Art during the transition between the spin attack and the kick by using a Dodge or a Weapon Action. 
+Of note, cancelling the Photon Art during this transition with a Dodge does not incur DPS loss. So don't feel need to commit to the final kick for DPS.
 
 Held Wulfen Raid is the Photon Art you want to be using the most often, as it deals high DPS and generates a lot of Wulfen [Harmonizer Focus](#harmonizer-focus) and [Treble Clef](#treble-clef-marking). 
-Although it is technically not higher DPS than tapped Wulfen Raid (unless you are cancelling after the 5-hit spin attack with a [Counter Attack](#counters)), it is more PP efficient.
+Although it is technically slightly less DPS than tapped Wulfen Raid (unless you are cancelling after the 5-hit spin attack with a [Counter Attack](#counters)), it is more PP efficient.
 
 ```{video} _static/PA/WulfenRaidHeldBackwards(default).mp4
 ---
