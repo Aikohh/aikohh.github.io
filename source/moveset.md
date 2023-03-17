@@ -170,10 +170,16 @@ width: 100%
 
 #### Tapped
 
-Rise into the air with Fredran and shoot out fast wave of attacks at an enemy.
+Rise into the air with Fredran and shoot out a quick flurry of 3 attacks at an enemy.
 This is Fredran's highest DPS outside of held [Fredran Breath](#fredran-breath) against a target with 4 or more parts.
 This Photon Art is also great for vertical positioning, as repeatedly tapping Fredran Riding will make you increase in height until you are slightly above your target.
 However, this can also cause your enemy to miss attacks that you could have countered.
+
+```{note}
+If an enemy is moving quickly, tapped Fredran Riding may only land 1 or 2 of its attacks. 
+In this case you may consider using tapped [Fredran Breath](#fredran-breath) which deals the entirety of its damage in one hit.
+Just note that Fredran Breath has a much lower projectile speed than tapped Fredran Riding, and the large hitbox of tapped Fredran Breath can make it difficult to hit weakspots.
+```
 
 ```{video} _static/PA/FredranRidingTapped.mp4
 ---
