@@ -38,7 +38,7 @@ This guide was written to document what Waker does and how to play it effectivel
 Go on to the [Skill Tree](#skill-tree) section if you wish to learn more about Waker!
 
 ```{note}
-This guide was last updated on March 16, 2022.
+This guide was last updated on March 17, 2022.
 ```
 
 ```{toctree} 
