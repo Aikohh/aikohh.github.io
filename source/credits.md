@@ -2,7 +2,7 @@
 
 Thanks to the [Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Main_Page) for many of the NGS UI icons used across this website, as well as being a great reference for damage formulas, skills, and specific stats for equipment.
 
-Thanks to Mirumi#7022 and Maru#5091 for the help with reviewing the content in this guide and pointing out information that I missed.
+Thanks to Mirumi#7022 and Maru#5091 for the help with reviewing the content in this guide and pointing out information that I forgot to include.
 
 ```{raw} html
 <meta content="Credits" property="og:title" />
