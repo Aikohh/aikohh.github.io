@@ -36,7 +36,7 @@ Synergizes well with [weapons](#harmonizers) such as the Neos series that furthe
 ## Not Recommended
 
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassGu.png) Waker/Gunner
-Increases active PP regen from Normal Attacks, Step Attacks, Counter Attacks, [Familiar Harmony](#familiar-harmony), and Dash Attacks thanks to Attack PP Recovery and Overwhelm. 
+Increases active PP regen from Normal Attacks, Dodge Attacks, Counter Attacks, [Familiar Harmony](#familiar-harmony), and Dash Attacks thanks to Attack PP Recovery and Overwhelm. 
 Generally, Force is the better subclass since it works during all of the above, and also passively while you're performing other actions such as [Marmelo Strike](#marmelo-strike).
 PP economy is also not really an issue for Waker unless mobbing, in which case the Force subclass does much better while providing additional utilities such as PP conversion and access to Techniques.
 
