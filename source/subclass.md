@@ -41,7 +41,7 @@ Generally, Force is the better subclass since it works during all of the above, 
 PP economy is also not really an issue for Waker unless mobbing, in which case the Force subclass does much better while providing additional utilities such as PP conversion and access to Techniques.
 
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassRa.png) Waker/Ranger
-Reduces the chance of getting afflited by a status effect by 40% and reduces the duration of status effects applied to you by 50% thanks to Bad Condition Ward and Bad Condition Reduction respectively.
+Reduces the chance of getting afflicted by a status effect by 40% and reduces the duration of status effects applied to you by 50% thanks to Bad Condition Ward and Bad Condition Reduction respectively.
 It also grants access to Rifle's Spread Shot and Grenadier skills that can passively regenerate in the background and be unloaded for quick burst damage and PP restoration.
 However, utilizing these requires you to build for Ranged Potency to get the most out of the Rifle.
 It is a servicable subclass but is not good enough to be worth considering over other subclass options.
