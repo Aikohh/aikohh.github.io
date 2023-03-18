@@ -88,7 +88,7 @@ Use augments with the highest Potency you can get, and secondarily maximize Pote
 
 For non-potency stats such as HP, PP, Damage Resistance, it is up to you how much you value them based on your skill level and playstyle. Non-potency stats are ignored in the ranking below.
 
-Here are all current the top augments ranked from best to worst:
+Here are all the current top augments ranked from best to worst:
 
 ```{csv-table}
 ---
