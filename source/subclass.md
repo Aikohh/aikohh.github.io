@@ -2,6 +2,14 @@
 
 ## Recommended
 
+### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassSl.png) Waker/Slayer
+Slayer is a great general-purpose subclass, providing 3% additional crit rate from Critical Up, and an additional 2% crit rate against bosses from Gallant Attack Critical up.
+Having this extra crit rate is especially useful for Waker due to how much of its damage comes from single-hit bursts such as [Familiar Harmony](#familiar-harmony) and [Marmelo Strike](#marmelo-strike) that you want to have crit as much as possible.
+Slayer's Critical Hit PP Gain also helps with PP sustain especially during mobbing scenarios in which you can hit multiple enemies at the same time to maximize the chances of it restoring PP every second.
+However, the Force subclass is still vastly superior for PP sustain in mobbing situations.
+
+[Wa/Sl Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?29RIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~dq~f~f~f~f~dq~f~f~f~f~f~f~f~f~f~f~f~f~4wH2turererererId~f~fIISXI2~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~5)
+
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassFo.png) Waker/Force
 Force is the best subclass for mobbing thanks to Eradication PP Gain which restores PP for each nearby enemy defeated.
 It is not as useful for bossing, but it does still help by providing increased natural PP recovery (from PP Recovery Boost) and the ability to very quickly restore PP using the PP Conversion skill at the cost of some HP.
@@ -28,7 +36,6 @@ Do note, however, that this only applies to Physical and Elemental downs. Defeat
 Increases [Photon Blast](#photon-blast) accumulation rate by 20% when you are near a boss thanks to Awake Aile.
 Weak Element Amplifier further boosts Photon Blast accumulation rate by 20% if your attacks' element matches the elemental weakness of your enemies, which applies when using an elemental [weapon](#harmonizers).
 Techter subclass is great for bossing because it allows you to use more Photon Blasts.
-It is an especially good subclass when bosses don't get downed frequently (bad for Fighter subclass) and don't have breakable parts (bad for Bouncer subclass).
 Synergizes well with [weapons](#harmonizers) such as the Neos series that further increase Photon Blast accumulation and reduce PP consumption for some time after using a Photon Blast.
 
 [Wa/Te Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?28AIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~dq~f~f~f~9SXeIIb~aereq~f~f~f~f~f~f~f~f~f~f~f~f~4wH2turererererId~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~8)
