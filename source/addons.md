@@ -31,6 +31,9 @@ Braver", "Critical Hit Rate Up", "Restasigne Heal Amount Up"
 "![icon](_static/class/UINGSClassFi.png) \
 Fighter", "Critical Hit Potency Up", "Jump Power Up"
 
+"![icon](_static/class/UINGSClassSl.png) \
+Slayer", "Downed Critical Hit Rate Up", "Reduced Photon Blast Cooldown"
+
 "![icon](_static/class/UINGSClassWa.png) \
 Waker", "PP Up", "Stationary HP Recovery"
 
