@@ -16,16 +16,14 @@ align: center
 ---
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosAstraeanHarmonizer.png) \
-Neos Astraean", "Lv.70", "761", "Potency +32%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult though"
+Neos Astraean", "Lv.70", "761", "Potency +34%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult though"
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosJustiteanHarmonizer.png) \
-Neos Justitean ![light](_static/element/NGSUITechLightMini.png)", "Lv.70", "671",  "Potency +32%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "The next best weapon series. It is similar to Neos Astrean but has lower attack and has a Light element attribute. It is best-in-slot for enemies weak to Light (such as Dark Falz Aegis). It is also easier to get one with a good [Preset Skill](#weapon-preset-skills) that makes it surpass a blank Neos Astrean in damage output"
+Neos Justitean ![light](_static/element/NGSUITechLightMini.png)", "Lv.70", "671", "Potency +33%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is similar to the Neos Astrean series but has a lower base attack value and a lower amount of Potency on its weapon Potenital. It is a Light elemental weapon though, which at least makes it comparable to the Neos Astrean series when fighting enemies weak to Light. When not fighting Light-weak enemies, the Neos Justitean series falls short of the Neos Astraean by quite a margin"
 
-"![weapon](_static/weapon/64px-NGSUIItemTenebrousHarmonizer.png) \
-Tenebrous ![ice](_static/element/NGSUITechIceMini.png)", "Lv.60", "674", "Potency +15%; Critical Hit Rate +15% for 30 sec when you successfully dodge or negate an attack with a Weapon Action or Sidestep", "This weapon is mentioned only because it is still competitive with the Neos series for enemies that are weak to Ice. Otherwise don't use this weapon series"
+"![weapon](_static/weapon/64px-NGSUIItemCrystiaHarmonizer.png) \
+Crystia", "Lv.55", "721", "Potency +27%; PP +6 when you defeat nearby enemies", "The Crystia series is a great weapon to use for mobbing when you are not using the Force subclass. Due to its utility, it is good to keep in your arsenal even after obtaining a Neos Astraean, thus making it also a good intermediate weapon to invest into while working towards a Neos Astraean"
 
-"![weapon](_static/weapon/64px-NGSUIItemEffulgentHarmonizer.png) \
-Effulgent ![fire](_static/element/NGSUITechFireMini.png)", "Lv.60", "674", "Potency +15%; Critical Hit Rate +15% for 30 sec when you successfully dodge or negate an attack with a Weapon Action or Sidestep", "This weapon is mentioned only because it is still competitive with the Neos series for enemies that are weak to Fire. Otherwise don't use this weapon series"
 ```
 
 (weapon-preset-skills)=
