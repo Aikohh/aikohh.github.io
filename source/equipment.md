@@ -16,7 +16,7 @@ align: center
 ---
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosAstraeanHarmonizer.png) \
-Neos Astraean", "Lv.70", "761", "Potency +34%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult though"
+Neos Astraean", "Lv.70", "761", "Potency +34%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Although getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult, it is still generally the best option."
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosJustiteanHarmonizer.png) \
 Neos Justitean ![light](_static/element/NGSUITechLightMini.png)", "Lv.70", "671", "Potency +33%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is similar to the Neos Astrean series but has a lower base attack value and a lower amount of Potency on its weapon Potenital. It is a Light elemental weapon though, which at least makes it comparable to the Neos Astrean series when fighting enemies weak to Light. When not fighting Light-weak enemies, the Neos Justitean series falls short of the Neos Astraean by quite a margin"
