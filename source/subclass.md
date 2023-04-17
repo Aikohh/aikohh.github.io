@@ -26,12 +26,6 @@ You also get access to Jet Boots which can be used to cast Techniques for applyi
 
 [Wa/Bo Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?28JIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~dq~f~f~f~f~dq~f~f~f~f~f~f~f~dxX~3r~4eIIrIq~f~f~f~5wH2turererererId~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~8)
 
-### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassFi.png) Waker/Fighter
-Increases damage dealt and active PP regeneration on downed enemies thanks to Defeat Advantage and Defeat PP Recovery, making it great to use for bossing.
-Do note, however, that this only applies to Physical and Elemental downs. Defeat Advantage and Defeat PP Recovery do not apply during Breaks or special downs that occur from breaking specific parts of some enemies.
-
-[Wa/Fi Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?28kIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~5_G~f~f~f~f~f~f~f~f~f~f~f~6q~f~f~f~f~dq~f~f~f~f~f~f~f~f~f~f~f~f~4wH2turererererId~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~8)
-
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassTe.png) Waker/Techter
 Increases [Photon Blast](#photon-blast) accumulation rate by 20% when you are near a boss thanks to Awake Aile.
 Weak Element Amplifier further boosts Photon Blast accumulation rate by 20% if your attacks' element matches the elemental weakness of your enemies, which applies when using an elemental [weapon](#harmonizers).
@@ -41,6 +35,11 @@ Synergizes well with [weapons](#harmonizers) such as the Neos series that furthe
 [Wa/Te Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?28AIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~dq~f~f~f~9SXeIIb~aereq~f~f~f~f~f~f~f~f~f~f~f~f~4wH2turererererId~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~8)
 
 ## Not Recommended
+
+### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassFi.png) Waker/Fighter
+Increases damage dealt and active PP regeneration on downed enemies thanks to Defeat Advantage and Defeat PP Recovery.
+However, these bonuses only apply to Physical and Elemental downs and does not apply during Breaks or special downs that occur from breaking specific parts of some enemies.
+This makes the Fighter subclass quite niche to use and is therefore not generally recommended.
 
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassGu.png) Waker/Gunner
 Increases active PP regen from Normal Attacks, Dodge Attacks, Counter Attacks, [Familiar Harmony](#familiar-harmony), and Dash Attacks thanks to Attack PP Recovery and Overwhelm. 
@@ -57,7 +56,7 @@ It is a servicable subclass but is not good enough to be worth considering over 
 Lets you restore 10% HP upon breaking your fall by pressing the spacebar after getting launched or knocked back by an attack if you take the Breakfall HP Gain skill.
 Also allows Restasignes to restore 30 PP with the Restasigne PP Gain skill, and increases the amount of HP restored by Restasignes by 20% thanks to Resta Effect Amplifier.
 However, Waker already has its own [skills](#optional-skills) that help with HP self-sustain, and PP regen upon using a Restasigne is an unreliable way to restore PP.
-All in all, Braver subclass is not recommended.
+All in all, the Braver subclass is not recommended.
 
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassHu.png) Waker/Hunter
 Hunter's Flash Guard allows you to take 15% less damage, and the Hunter Physique active skill can further reduce damage taken by another 25% for a short time while granting immunity to knockback and being launched.
