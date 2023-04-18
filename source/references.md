@@ -3,7 +3,7 @@
 Here is a list of notable YouTube channels with Waker gameplay showcases to use as reference
 
 * [Theuberelite](https://www.youtube.com/@TheuberClips)
-* [ものさし](https://www.youtube.com/@user-uo9ug5rl4y)
+* [ものさし](https://www.youtube.com/@flowerint)
 * [E E](https://www.youtube.com/@EE-fr4dn)
 * [Aikoh](https://www.youtube.com/@Aikoh)
 * [Mirumi](https://www.youtube.com/@mirumi3115)
