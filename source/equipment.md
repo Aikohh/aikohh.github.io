@@ -100,10 +100,13 @@ Addi Deftratech", "+3.0% Potency \
 +2.75% Potency Floor"
 
 "3", "Mastery IV \
-Alts Secreta IV", "+2.5% Potency \
+Alts Secreta IV \
+Deft Triplble", "+2.5% Potency \
 +2.5% Potency Floor"
 
-"4", "Addi Spimeltech \
+"4", "Gigas Maste", "+3.5% Potency"
+
+"5", "Addi Spimeltech \
 Addi Spiratech \
 Addi Stameltech \
 Addi Staratech \
@@ -113,27 +116,31 @@ Addi Wardmeltech \
 Addi Wardratech", "+3.0% Potency \
 +1.0% Potency Floor"
 
-"5", "Nils Soul IV \
+"6", "Nils Soul IV \
 Nex Soul IV \
 Ams Soul IV \
 Aegis Soul IV \
 Renus Soul IV \
 Gigas Technique IV \
+Sta Triplble \
+Spi Triplble \
+Gua Triplble \
+Triplble II \
 Technique IV \
 Stira Domina", "+3.0% Potency"
 
-"6", "Meltech Dualble IV \
+"7", "Meltech Dualble IV \
 Ratech Dualble IV", "+2.75% Potency"
 ```
 
-The above list contains both cheap and expensive augments, so just go down the list and get what you can afford given your own budget. Example builds:
+The above list contains both cheap and expensive augments, so just go down the list and get what you can afford given your own budget (and preferences for HP & PP). Example builds:
 
 Minmax (most expensive)
 > Halphinale \
 > Addi Deftratech \
 > Mastery IV \
 > Alts Secreta IV \
-> Nils Soul IV
+> Deft Triplble
 
 Budget (cheapest)
 > Alts Secreta IV \
