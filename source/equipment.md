@@ -16,13 +16,10 @@ align: center
 ---
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosAstraeanHarmonizer.png) \
-Neos Astraean", "Lv.70", "761", "Potency +34%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Although getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult, it is still generally the best option."
-
-"![weapon](_static/weapon/64px-NGSUIItemNeosJustiteanHarmonizer.png) \
-Neos Justitean ![light](_static/element/NGSUITechLightMini.png)", "Lv.70", "671", "Potency +33%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast", "This is similar to the Neos Astrean series but has a lower base attack value and a lower amount of Potency on its weapon Potenital. It is a Light elemental weapon though, which at least makes it comparable to the Neos Astrean series when fighting enemies weak to Light. When not fighting Light-weak enemies, the Neos Justitean series falls short of the Neos Astraean by quite a margin"
+Neos Astraean", "Lv.70", "761", "Potency +38%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast.", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Although getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult, it is still generally the best option available even without a fixa."
 
 "![weapon](_static/weapon/64px-NGSUIItemCrystiaHarmonizer.png) \
-Crystia", "Lv.55", "721", "Potency +27%; PP +6 when you defeat nearby enemies", "The Crystia series is a great weapon to use for mobbing when you are not using the Force subclass. Due to its utility, it is good to keep in your arsenal even after obtaining a Neos Astraean, thus making it also a good intermediate weapon to invest into while working towards a Neos Astraean"
+Crystia", "Lv.55", "721", "Potency +42%; PP +6 when you defeat nearby enemies.", "The Crystia series is a great weapon to use for mobbing when you are not using the Force subclass. Due to its utility, it is good to keep in your arsenal even after obtaining a Neos Astraean, thus making it also a good intermediate weapon to invest into while working towards a Neos Astraean"
 
 ```
 
@@ -30,7 +27,7 @@ Crystia", "Lv.55", "721", "Potency +27%; PP +6 when you defeat nearby enemies", 
 ### Preset Skills
 
 The recommended Preset Skill for weapons is **Fatale** for higher crit rates to mitigate [weapon damage variance](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Damage_Calculation#Weapon_Variance).
-See this [weapon damage spreadsheet](https://docs.google.com/spreadsheets/d/1gZaK_zZJ2DkrsDCajCjwdVUKspokNPMvXoGgM6yOxJI) to compare the damage outputs of various Weapon Series and Preset Skills.
+See the [NGS Damage Calculator](https://docs.google.com/spreadsheets/d/195u5PhyZNLBWO0kkR7ebbcf9XARvtBS9eJbSRkiAyIk/edit?usp=sharing) to compare the damage outputs of various Weapon Series and Preset Skills.
 
 ### Multiweapon
 
