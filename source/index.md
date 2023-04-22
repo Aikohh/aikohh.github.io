@@ -37,9 +37,11 @@ When played well, Waker competes with the likes of the other classes while being
 This guide was written to document what Waker does and how to play it effectively.  
 Go on to the [Skill Tree](#skill-tree) section if you wish to learn more about Waker!
 
-```{note}
-This guide was last updated on April 18, 2023.
+````{admonition} [Changelog (click to see full history)](https://github.com/Aikohh/aikohh.github.io/commits/main)
+```{git_changelog}
 ```
+````
+
 
 ```{toctree} 
 ---
