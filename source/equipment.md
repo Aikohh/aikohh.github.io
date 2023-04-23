@@ -99,12 +99,12 @@ align: center
 Addi Deftratech", "+3.0% Potency \
 +2.75% Potency Floor"
 
-"3", "Mastery IV \
+"3", "Gigas Maste", "+3.5% Potency"
+
+"4", "Mastery IV \
 Alts Secreta IV \
 Deft Triplble", "+2.5% Potency \
 +2.5% Potency Floor"
-
-"4", "Gigas Maste", "+3.5% Potency"
 
 "5", "Addi Spimeltech \
 Addi Spiratech \
@@ -138,8 +138,8 @@ The above list contains both cheap and expensive augments, so just go down the l
 Minmax (most expensive)
 > Halphinale \
 > Addi Deftratech \
+> Gigas Maste \
 > Mastery IV \
-> Alts Secreta IV \
 > Deft Triplble
 
 Budget (cheapest)
