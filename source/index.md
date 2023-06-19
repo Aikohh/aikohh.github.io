@@ -24,7 +24,7 @@ To play Waker effectively, you need to master the use of your Familiars and thei
 It requires balancing the [Focus Gauges](#harmonizer-focus) of each Familiar and utilizing other [class skills](#core-skills) depending on the situation.
 
 Waker's biggest strength lies in its versatility;
-it performs well in any situation you can throw at it thanks to its variety of Familiars and skills, while also boasting the greatest mobility out of all the other classes!
+it performs well in any situation you can throw at it thanks to its variety of Familiars and skills, while also boasting some of the greatest mobility out of all the classes!
 However, it is also one of the most complex and difficult classes to master due to the sheer number of mechanics involved and the unforgiving animation locks on nearly every action.
 Optimal Waker gameplay requires planning out each subsequent move in order to maximize Familiar Focus Gauge accumulation while simultaneously timing each of those moves carefully in order to stay safe when fighting opponents.
 

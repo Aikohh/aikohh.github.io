@@ -95,9 +95,13 @@ _Marmelo at different stages depending on the gauge. Initially, Marmelo is small
 ## ![icon](_static/skill/38px-NGSUISkillFamiliarHarmony.png) Familiar Harmony
 
 By expending one Fredran stock and one Wulfen stock (see [Harmonizer Focus](#harmonizer-focus)), you can deal massive damage in a large cone-shaped area of effect (AoE) in front of you.
+With [Familiar Harmony Marmelo+](#familiar-harmony-marmelo-plus) and a non-empty [Marmelo Focus Gauge](#marmelo-strike), Familiar Harmony will additionally consume Marmelo Focus to deal additional damage.
+(See the [Skill Tree](#familiar-harmony-marmelo-plus) for additional information about Familiar Harmony Marmelo+)
+
 It's great to use for mobbing to deal damage to a large number of enemies at once.
-When using it against bosses, you should try to save Familiar Harmonies for downs or for when you can guarantee a hit onto an enemy weakspot.
-However, you should also sure you don't overcap on your Fredran or Wulfen stocks, otherwise the Harmonizer Focus just goes to waste instead of being used for building up another Familiar Harmony.
+When using it against bosses, you should try to save Familiar Harmonies for downs, for when you can guarantee a hit onto an enemy weakspot, or when you have 1 Marmelo guard of focus and can guarantee a hit before you need to guard another attack.
+
+You should also make sure you don't overcap on your Fredran or Wulfen stocks, otherwise the Harmonizer Focus just goes to waste instead of being used for building up another Familiar Harmony.
 Familiar Harmony also restores PP and applies a [Treble Clef Mark](#treble-clef-marking) to each enemy hit if you have the [Familiar Harmony Marking Clef](#familiar-harmony-marking-clef) skill.
 
 ```{video} _static/skill/CombatFamiliarHarmony.mp4

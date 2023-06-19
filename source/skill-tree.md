@@ -112,6 +112,21 @@ The current stage of Marmelo can be seen in the hotbar and also manifests in Mar
 ![Marmelo Strike Stages](_static/skill/MarmeloStrikeStages.png)
 _Marmelo at different stages depending on the gauge. Initially, Marmelo is small at Stage 0 (indicated by the 0 bars in its gauge). After guarding one or two attacks with the Weapon Action, Marmelo advances to Stage 1, increasing in size and damage when thrown. After guarding three or more attacks, Marmelo advances to Stage 2 in which size and damage are maximized._
 
+(familiar-harmony-marmelo-plus)=
+### ![icon](_static/skill/38px-UISkillFamiliarHarmonyMarmelo.png) Familiar Harmony Marmelo+
+If [Marmelo's Focus Gauge](marmelo-strike) is not empty, [Familiar Harmony](familiar-harmony) will consume 2 (Marmelo) guards worth of focus from the Marmelo Focus Gauge to deal extra damage.
+If the Marmelo Focus Gauge currently only as 1 guard worth of focus (Stage 1), Familiar Harmony will consume the 1 guard *and deal the same amount of damage as 2 guards worth of focus*.
+Controversially, it means that **Familiar Harmony Marmelo+ is the most effective at a Stage 1 Marmelo achieved by guarding just a single attack**.
+
+```{note}
+If you can guarantee that you consume only 1 Marmelo guard for every Familiar Harmony you use, your DPS will skyrocket! However, this is not always practical.
+Some may question whether or not Familiar Harmony Marmelo+ is worth taking due to this fact.
+
+The general rule of thumb here is that **one use of Familiar Harmony Marmelo+ consuming 1 Marmelo guard will offset the DPS loss of using five Familiar Harmony Marmelo+ consuming 2 Marmelo guards**.
+Therefore, Familiar Harmony Marmelo+ is still a DPS increase in the majority of situations!
+In the few situations where Familiar Harmony Marmelo+ is a DPS loss, the loss is generally quite small.
+```
+
 (hot-marmelo-parry)=
 ### ![icon](_static/skill/38px-NGSUISkillHotMarmeloParry.png) Hot Marmelo Parry 
 Adds an active skill you can activate at _any_ time to have Marmelo guard an attack for you.

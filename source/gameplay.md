@@ -47,6 +47,8 @@ It is more DPS to omit the Harmonizer Parry Counter in such cases than to miss t
 
 - If your [Marmelo Focus Gauge](#marmelo-strike) is full, prioritize throwing Marmelo as soon as possible to deal massive damage and reset Marmelo's focus gauge back to zero so that you don't waste subsequent opportunities to charge Marmelo for extra damage.
 
+- If your [Marmelo Focus Gauge](#marmelo-strike) is at Stage 1 from guarding only a single attack, prioritize using [Familiar Harmony](#familiar-harmony) if you can, in order to make the most out of [Familiar Harmony Marmelo+](#familiar-harmony-marmelo-plus) for huge damage. However, don't do this if it will cause you to miss your next opportunity to guard an attack.
+
 - If your Fredran focus is nearly full, you should consider making a Wulfen [Familiar Support](#familiar-support) crest instead of a Fredran crest to help generate more Wulfen Focus to use more [Familiar Harmonies](#familiar-harmony). The same thing applies vice-versa (Wulfen vs Fredran)
 
 - While the above rotation will eventually produce a [maximally-amplified Familiar Support crest](#familiar-support-amplifier), it does not do so very quickly. You can choose to perform a [Treble Clef Ignition](#treble-clef-ignition) earlier in the rotation to get the (next level of amplified) Familiar Support crest sooner. For instance, you can skip the repeat Tapped [Fredran Riding](#fredran-riding) in step 3, perform steps 4 and 5 to obtain an early Fredran [Familiar Support](#familiar-support) crest, and then perform the repeat Tapped [Fredran Riding](#fredran-riding) before step 6 to get the 1 needed [Fredran Stock](#harmonizer-focus) with the help of the crest
