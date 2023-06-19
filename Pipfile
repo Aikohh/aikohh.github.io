@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+myst-parser = "*"
+sphinx = "*"
+sphinx-autobuild = "*"
+sphinxcontrib-video = "==0.0.1.dev3"
+sphinxcontrib-youtube = "*"
+furo = "*"
+sphinx-git = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.8"
