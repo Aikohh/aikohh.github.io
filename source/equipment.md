@@ -16,10 +16,10 @@ align: center
 ---
 
 "![weapon](_static/weapon/64px-NGSUIItemNeosAstraeanHarmonizer.png) \
-Neos Astraean", "Lv.70", "761", "Potency +38%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast.", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Although getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult, it is still generally the best option available even without a fixa."
+Neos Astraean", "Lv.70", "894", "Potency +38%; Photon Blast Gauge Charge when attacking +25%; PP Consumption Reduced 15% for 90 seconds after using Photon Blast.", "This is the best weapon series. It drops from Dark Falz Aegis in The Battle of Halphia Lake Urgent Quest. Although getting one with a good [Preset Skill](#weapon-preset-skills) will be difficult, it is still generally the best option available even without a fixa."
 
 "![weapon](_static/weapon/64px-NGSUIItemCrystiaHarmonizer.png) \
-Crystia", "Lv.55", "721", "Potency +42%; PP +6 when you defeat nearby enemies.", "The Crystia series is a great weapon to use for mobbing when you are not using the Force subclass. Due to its utility, it is good to keep in your arsenal even after obtaining a Neos Astraean, thus making it also a good intermediate weapon to invest into while working towards a Neos Astraean"
+Crystia", "Lv.55", "851", "Potency +42%; PP +6 when you defeat nearby enemies.", "The Crystia series is a great weapon to use for mobbing when you are not using the Force subclass. Due to its utility, it is good to keep in your arsenal even after obtaining a Neos Astraean, thus making it also a good intermediate weapon to invest into while working towards a Neos Astraean"
 
 ```
 
