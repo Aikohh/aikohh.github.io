@@ -1,6 +1,6 @@
 # Aikoh's Waker Guide
 
-Written by Aikoh#6996
+Written by aikohhhh
 
 Welcome to Aikoh's comprehensive Waker class guide for Phantasy Star Online 2: New Genesis!
 
