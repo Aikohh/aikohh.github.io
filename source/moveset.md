@@ -160,7 +160,7 @@ Fredran locks onto up to 10 targets in your field of view and fires a projectile
 Unlike the tapped variant of this Photon Art, these projectiles do not pierce enemies.
 If an enemy has multiple parts, Fredran will lock onto and fire a projectile at each part.
 Multiple hits against the same enemy (within the same cast of held Fredran Breath) will deal reduced damage.
-Despite this, Fredran Breath remains effective in single target scenarios against enemies with 4 or more parts.
+Despite this, Fredran Breath remains a very effective option in single target DPS scenarios against enemies with multiple parts, often surpassing [Wulfen Raid](#wulfen-raid) and [Wulfen Demolition](#wulfen-demolition) in DPS.
 
 
 ```{video} _static/PA/CombatFredranBreathHeld.mp4
