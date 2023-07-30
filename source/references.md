@@ -6,7 +6,7 @@ Here is a list of notable YouTube channels with Waker gameplay showcases to use 
 * [ものさし](https://www.youtube.com/@flowerint)
 * [E E](https://www.youtube.com/@EE-fr4dn)
 * [Aikoh](https://www.youtube.com/@Aikoh)
-* [Mirumi](https://www.youtube.com/@mirumio)
+* [Mirumi](https://www.youtube.com/@mirutatsu)
 
 <!-- Example video:
 
