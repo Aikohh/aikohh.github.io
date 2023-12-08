@@ -28,9 +28,9 @@ You also get access to Jet Boots which can be used to cast Techniques for applyi
 
 ### ![wa](_static/class/UINGSClassWa.png) ![sub](_static/class/UINGSClassTe.png) Waker/Techter
 Increases [Photon Blast](#photon-blast) accumulation rate by 20% when you are near a boss thanks to Awake Aile.
-Weak Element Amplifier further boosts Photon Blast accumulation rate by 20% if your attacks' element matches the elemental weakness of your enemies, which applies when using an elemental [weapon](#harmonizers).
+Weak Element Amplifier further boosts Photon Blast accumulation rate by 20% if your attacks' element matches the elemental weakness of your enemies, which applies when using an elemental weapon.
 Techter subclass is great for bossing because it allows you to use more Photon Blasts.
-Synergizes well with [weapons](#harmonizers) such as the Neos series that further increase Photon Blast accumulation and reduce PP consumption for some time after using a Photon Blast.
+Synergizes well with weapons such as the Neos series that further increase Photon Blast accumulation and reduce PP consumption for some time after using a Photon Blast.
 
 [Wa/Te Skill Tree](https://arks-layer.com/skillsim/ngs/skillcalc.php?28AIIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIVIbIV~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~dq~f~f~f~9SXeIIb~aereq~f~f~f~f~f~f~f~f~f~f~f~f~4wH2turererererId~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~f~8)
 
