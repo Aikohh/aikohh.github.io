@@ -115,15 +115,17 @@ _Marmelo at different stages depending on the gauge. Initially, Marmelo is small
 (familiar-harmony-marmelo-plus)=
 ### ![icon](_static/skill/38px-UISkillFamiliarHarmonyMarmelo.png) Familiar Harmony Marmelo+
 If [Marmelo's Focus Gauge](marmelo-strike) is not empty, [Familiar Harmony](familiar-harmony) will consume 2 (Marmelo) guards worth of focus from the Marmelo Focus Gauge to deal extra damage.
-If the Marmelo Focus Gauge currently only as 1 guard worth of focus (Stage 1), Familiar Harmony will consume the 1 guard *and deal the same amount of damage as 2 guards worth of focus*.
+How much extra damage, you may ask? Enough to make it equal to a fully puffed-up (level 3) thrown [Marmelo Strike](#marmelo-strike)! 
+It also has the extra advantage of being a faster animation than using a Weapon Action followed by [Marmelo Strike](#marmelo-strike).
+But wait, there is more! If the Marmelo Focus Gauge currently only as 1 guard worth of focus (Stage 1), Familiar Harmony will consume the 1 guard *and deal the same amount of damage as 2 guards worth of focus*.
 Controversially, it means that **Familiar Harmony Marmelo+ is the most effective at a Stage 1 Marmelo achieved by guarding just a single attack**.
 
 ```{note}
 If you can guarantee that you consume only 1 Marmelo guard for every Familiar Harmony you use, your DPS will skyrocket! However, this is not always practical.
 Some may question whether or not Familiar Harmony Marmelo+ is worth taking due to this fact.
 
-The general rule of thumb here is that **one use of Familiar Harmony Marmelo+ consuming 1 Marmelo guard will offset the DPS loss of using five Familiar Harmony Marmelo+ consuming 2 Marmelo guards**.
-Therefore, Familiar Harmony Marmelo+ is still a DPS increase in the majority of situations!
+The general rule of thumb here is that one use of Familiar Harmony Marmelo+ consuming 1 Marmelo guard will offset the DPS loss of using five Familiar Harmony Marmelo+ consuming 2 Marmelo guards.
+Therefore, Familiar Harmony Marmelo+ is a DPS increase in the majority of situations!
 In the few situations where Familiar Harmony Marmelo+ is a DPS loss, the loss is generally quite small.
 ```
 
