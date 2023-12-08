@@ -14,7 +14,7 @@ width: 100%
 ---
 ```
 
-_Waker_ uses a [Harmonizer](#harmonizers) to summon photonic beings called _Familiars_ to attack foes or defend against incoming attacks.
+_Waker_ uses a Harmonizer to summon photonic beings called _Familiars_ to attack foes or defend against incoming attacks.
 Waker currently has three different Familiars: 
 _Fredran_, a ranged attacker that is effective for dealing with enemies at all distances; 
 _Wulfen_, a melee fighter that can unleash powerful strikes at close range; 
@@ -53,6 +53,7 @@ gameplay
 equipment
 subclass
 addons
+pa-customization
 references
 credits
 ```

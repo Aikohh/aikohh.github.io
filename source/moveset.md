@@ -209,6 +209,7 @@ width: 100%
 (wulfen-raid)=
 ### ![icon](_static/PA/38px-PAWulfenRaid.png) Wulfen Raid
 
+(tapped-wulfen-raid)=
 #### Tapped
 
 A two-hit attack consisting of a dash toward your target and an uppercut strike.
@@ -229,6 +230,7 @@ width: 100%
 ---
 ```
 
+(held-wulfen-raid)=
 #### Held
 
 Holding Wulfen Raid replaces the uppercut of the tapped variant with a 5-hit spin attack, and then follows with a kick.

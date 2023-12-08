@@ -31,6 +31,7 @@ Increases the maximum number of Harmonizer Focus stocks to 3 for both Fredran an
 (familiar-harmony)=
 ### ![icon](_static/skill/38px-NGSUISkillFamiliarHarmony.png) Familiar Harmony 
 Allows you to expend one Fredran stock and one Wulfen stock to deal massive damage in a large cone-shaped area of effect (AoE) in front of you.
+This attack also restores PP! 
 
 ```{video} _static/skill/CombatFamiliarHarmony.mp4
 ---
