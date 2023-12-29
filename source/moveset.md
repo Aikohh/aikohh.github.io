@@ -79,7 +79,7 @@ width: 100%
 (marmelo)=
 ## ![icon](_static/PA/38px-WeaponAction.png) Marmelo Strike
 
-Holding and letting go of the Weapon Action allows you to throw Marmelo at an enemy to deal damage based on Marmlo's Focus Gauge. Successful Weapon Action guards, [Hot Marmelo Parry](#hot-marmelo-parry), and [Marmelo Patience](#marmelo-patience) increase Marmelo's Focus Gauge shown above your hotbar. Marmelo's Focus Gauge has three stages: 0, 1, and 2.
+Holding and letting go of the Weapon Action allows you to throw Marmelo at an enemy (or object or a surface) to deal damage based on Marmlo's Focus Gauge. Successful Weapon Action guards, [Hot Marmelo Parry](#hot-marmelo-parry), and [Marmelo Patience](#marmelo-patience) increase Marmelo's Focus Gauge shown above your hotbar. Marmelo's Focus Gauge has three stages: 0, 1, and 2.
 Guarding one attack grants a Stage 1 Marmelo.
 Guarding three attacks grants a Stage 2 Marmelo.
 **Generally, you should only throw Marmelo at Stage 2.**
@@ -87,6 +87,10 @@ The current stage of Marmelo can be seen in the hotbar and also manifests in Mar
 
 ```{note}
 You are **very** vulnerable while throwing Marmelo because the throwing animation is not cancellable and it also has no guard frames or invulnerability frames. Be sure to have [Hot Marmelo Parry](#hot-marmelo-parry) ready just in case! (Or know your enemy well enough to time your throws without danger)
+```
+
+```{note}
+Upon hitting an object, surface, or enemy, **Marmelo Strike creates a small short-lived area of effect** that damages enemies in its range. Knowing this information, there are some cases where you can pre-emptively perform a Marmelo Strike (using Over-The-Shoulder view) to hit a spot where you know an enemy (e.g., Bujin, Dark Falz Aegis, etc.) will land. This is useful because some enemies will deal area-of-effect damage around the same landing location, allowing you to use [Hot Marmelo Parry](#hot-marmelo-parry) to gain Marmelo gauge just after the Marmelo Strike consumed the entire gauge.
 ```
 
 ![Marmelo Strike Stages](_static/skill/MarmeloStrikeStages.png)
