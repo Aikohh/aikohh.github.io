@@ -230,21 +230,21 @@ Gives a chance to not a consume Restasigne when you use one. Very nice.
 
 ### ![icon](_static/skill/38px-NGSUISkillMarmeloStrikeTracing.png) Marmelo Strike Tracing 
 Allows Marmelo to change direction mid-flight after throwing with [Marmelo Strike](#marmelo-strike).
-I have not found a scenario where Marmelo would hit while having this skill versus not having it. 
-See this [Tweet](https://twitter.com/Aikoh_PSO2/status/1558529787756351489) and the two clips below as examples.
-However, since we have a plethora of skill points, it does not hurt to take it in case it actually does help sometimes.
-
-```{video} _static/skill/MarmeloStrikeTracingMissesEngoukuDash.mp4
----
-width: 100%
----
-```
+This skill can be both helpful and detrimental. In many cases, a thrown Marmelo Strike that would have missed will still miss, and in some cases _it can cause your Marmelo Strike to miss when it otherwise wouldn't have_. Therefore, this skill is 1000% optional and may or may not be helpful at all.
+See this [Tweet](https://twitter.com/Aikoh_PSO2/status/1558529787756351489) and two clips below as examples.
 
 ```{video} _static/skill/MarmeloStrikeTracingMissesEngoukuJump.mp4
 ---
 width: 100%
 ---
 ```
+
+```{video} _static/skill/MarmeloStrikeTracingMissesDFA.webm
+---
+width: 100%
+---
+```
+(Thanks to eggheadchef for the clip of Marmelo Strike Tracing missing in DFA)
 
 ```{raw} html
 <meta content="Waker Skill Tree" property="og:title" />

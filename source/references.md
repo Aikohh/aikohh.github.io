@@ -1,6 +1,6 @@
 # References 
 
-Here is a list of notable YouTube channels with Waker gameplay showcases to use as reference
+Here is a list of notable YouTube channels with Waker gameplay showcases to use as reference (in no particular order)
 
 * [Theuberelite](https://www.youtube.com/@TheuberClips)
 * [ものさし](https://www.youtube.com/@flowerint)
@@ -8,6 +8,7 @@ Here is a list of notable YouTube channels with Waker gameplay showcases to use 
 * [Aikoh](https://www.youtube.com/@Aikoh)
 * [Mirumi](https://www.youtube.com/@miruminty)
 * [Katydid](https://www.youtube.com/@KatydidYT)
+* [Eggyheadchef](https://www.youtube.com/@eggyheadchef)
 
 <!-- Example video:
 
