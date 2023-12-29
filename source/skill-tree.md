@@ -122,11 +122,7 @@ But wait, there is more! If the Marmelo Focus Gauge currently only as 1 guard wo
 Controversially, it means that **Familiar Harmony Marmelo+ is the most effective at a Stage 1 Marmelo achieved by guarding just a single attack**.
 
 ```{note}
-If you can guarantee that you consume only 1 Marmelo guard for every Familiar Harmony you use, your DPS will skyrocket! However, this is not always practical.
-Some may question whether or not Familiar Harmony Marmelo+ is worth taking due to this fact.
-
-The general rule of thumb here is that one use of Familiar Harmony Marmelo+ consuming 1 Marmelo guard will offset the DPS loss of using five Familiar Harmony Marmelo+ consuming 2 Marmelo guards.
-Therefore, Familiar Harmony Marmelo+ is a DPS increase in the majority of situations!
+If you can guarantee that you consume only 1 Marmelo guard for every Familiar Harmony you use, your DPS will skyrocket! However, even if you end up sometimes consuming 2 Marmelo guards for a Familiar Harmony Marmelo+, the skill is still usually a DPS increase in the majority of situations.
 In the few situations where Familiar Harmony Marmelo+ is a DPS loss, the loss is generally quite small.
 ```
 
@@ -166,7 +162,11 @@ Enables opportunities where you can pre-aim and then throw Marmelo when anticipa
 You can use it if you're too lazy to otherwise time perfect Weapon Action guards, and don't mind spending a Restasigne to heal back up.
 Just keep in mind that Marmelo Patience won't allow you to utilize [Harmonizer Parry Counter](#harmonizer-parry-counter).
 
-Also this skill sometimes has a habit of not working :)
+Also this skill sometimes has a habit of not working near the end of the initial tap animation :)
+
+```{note}
+With more and more enemies having attacks that are unable to be avoided through iframes and guards (such as in Dark Falz Solus and Malignant Dark Falz Aegis), Marmelo Patience sees even more use as a way to sacrifice a bit of your HP to increase Marmelo gauge.
+```
 
 ```{video} _static/skill/MarmeloPatience.mp4
 ---
