@@ -1,12 +1,8 @@
 # Tech Arts Customization
 
-Tech Arts Customizations allow enhancing a certain aspect of a [Photon Art](#photon-arts) usually in exchange for increased PP cost and/or decreased potency.
+Tech Arts Customizations allow enhancing a certain aspect of a [Photon Art](#photon-arts) in exchange for some detriment such as increased PP cost. For the best value out of your resources, you should level customizations to level 5 and then work towards getting them to level 10 later.
 
-It is to be noted that customization levels only affect the PP cost, with higher levels decreasing the increased PP cost to a measily 5% at the maximum level of 10.
-Since Waker has an abundance of PP regeneration thanks to [Treble Clef Ingition](#treble-clef-ignition), [Familiar Harmony](#familiar-harmony), and [counter attacks](#counters) the increased PP costs of customizations are mostly negligible especially at maximum level. 
-For the best value out of your resources, you may consider leveling each customization to level 5 to start with (for 10% increased PP cost), and then work towards getting them to level 10 later.
-
-The customizations below will only list their stats at the maximum level. Lower levels will just have higher PP costs (20% at level 1).
+For brevity, the customizations below will only list their stats at the maximum level.
 
 ## Wulfen Raid
 
@@ -14,31 +10,30 @@ Each of [Wulfen Raid](#wulfen-raid)'s customizations are useful in different sit
 
 ### Type 1
 
-- Increase Attack Speed
+- Increase Attack Speed (~15%)
 - PA Potency -12%
 - PP Cost +5%
 
-This customization increases the animation speed of Wulfen Raid but lowers the potency.
-The damage-per-second of Wulfen Raid remains the same, but the amount of [Treble Clef](#treble-clef-marking), down, and [focus](#harmonizer-focus) per second get a nice bump thanks to the increased attack speed.
+With this customization the DPS of Wulfen Raid gets a small increase (~2%) in both its tapped and held variants, but the amount of [Treble Clef](#treble-clef-marking), physical down, Photon Blast gauge accumulation, and [Wulfen focus](#harmonizer-focus) per second get a nice bump (~15%) thanks to the increased attack speed.
+
+In general, **this is the customization I would recommend to most players most of the time** due to its jack-of-all-trades nature, and the one to prioritize leveling to 10 due to the combination of attack speed and PP cost increase causing a noticable effect on PP consumption over time.
 
 ### Type 2
 
 - Focus Gauge Accumulation +50%
 - PP Cost +5%
 
-Increases Wulfen focus gauge accumulation by 50%.
-This is a good option if you find yourself lacking Wulfen focus a lot in certain encounters where Fredran is used more often.
+This customization a good option if you find yourself lacking Wulfen focus in certain encounters. Examples of such encounters could those where Fredran is used more often (such as versus bosses that have 3+ parts for you to abuse held Fredran Breath for more DPS over Wulfen Raid) or otherwise have low uptime on Wulfen PA usage.
 
 ### Type 3
 
 - Add Treble Clef Mark effect to non-Variant Attacks
 - PP Cost +5%
 
-This customization allows [tapped Wulfen Raid](#tapped-wulfen-raid) to generate [Treble Clef](#treble-clef-marking) at much greater amounts.
-This enables new combos for creating Treble Clef marks quickly, such as using 3 tapped Wulfen Raids in succession to create one Treble Clef mark.
+This customization allows [tapped Wulfen Raid](#tapped-wulfen-raid) to generate [Treble Clef](#treble-clef-marking) at much greater amounts, which is amazing for fast and aggressive bosses such as Ikusa Bujin where fitting in held PAs from either Fredran or Wulfen can be difficult. With this customization, 3 tapped Wulfen Raids is enough to create a Treble Clef mark on an enemy.
 
-One combo in particular (thanks to theuberclips on Discord) can be used to generate and ignite a Treble Clef mark very fast.
-This combo utilizes dodge-cancelled [held Wulfen Raid](held-wulfen-raid) (to skip the final kick) and [dodge attacks](#dodge-attack) to create a Treble Clef mark and immediately ignite it:
+Notably, because a full held Wulfen Raid starts with the first half of a tapped Wulfen Raid, a held Wulfen Raid also gains a small bump in Treble Clef generation. This fact enables a very fast combo (mentioned by theuberclips on Discord) for creating and igniting a Treble Clef mark.
+The combo utilizes dodge-cancelled [held Wulfen Raids](held-wulfen-raid) and [dodge attacks](#dodge-attack) to create a Treble Clef mark and immediately ignite it:
 
 1. [Held Wulfen Raid](held-wulfen-raid) until after the spin attack
 1. Dodge to cancel the final kick
