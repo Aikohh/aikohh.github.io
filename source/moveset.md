@@ -176,6 +176,7 @@ width: 100%
 (fredran-riding)=
 ### ![icon](_static/PA/38px-PAFredranRiding.png) Fredran Riding
 
+(tapped-fredran-riding)=
 #### Tapped
 
 Rise into the air with Fredran and shoot out a quick flurry of 3 attacks at an enemy.
@@ -195,6 +196,7 @@ width: 100%
 ---
 ```
 
+(held-fredran-riding)=
 #### Held
 
 Ride on Fredran's back indefinitely until you let go.
