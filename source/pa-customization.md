@@ -39,7 +39,7 @@ It *might* be good to use for dealing damage during downs. (Waiting on frame dat
 
 This customization allows [tapped Fredran Riding](#tapped-fredran-riding) to generate [Treble Clef](#treble-clef-marking) at much greater amounts, which is amazing for fast and aggressive bosses such as Ikusa Bujin where fitting in held PAs from either Fredran or Wulfen can be difficult. With this customization, 5 tapped Fredran Ridings are enough to create a Treble Clef mark on an enemy.
 
-Notably, one full [held Wulfen Raid](#held-wulfen-raid) or [held Fredran Riding](#held-fredran-riding) followed by one [tapped Fredran Riding](#tapped-fredran-riding) and [Linear Drive](#linear-drive) is also enough to create a [Treble Clef mark](#treble-clef-marking) on an enemy.
+Notably, one full [held Wulfen Raid](#held-wulfen-raid) or [held Fredran Riding](#held-fredran-riding) followed by one [tapped Fredran Riding](#tapped-fredran-riding) and [backwards Linear Drive](#linear-drive) is also enough to create a [Treble Clef mark](#treble-clef-marking) on an enemy.
 
 ## Wulfen Raid
 
