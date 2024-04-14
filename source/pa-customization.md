@@ -18,7 +18,7 @@ Adds 2 charge levels to held [Fredran Riding](#fredran-riding).
 The first charge level (Stage 1) increases potency by 80%, while the second charge level (Stage 2) increases potency by 240%.
 There is still a no charge level that does normal damage if you do not ride Fredran long enough to reach the first charge level.
 
-This is a great option if you are engaging in fights that give you downtime to charge Fredran Riding, as even Stage 1 is higher damage than a fully charged [Wulfen Demolition](#wulfen-demolition).
+This is a great option if you are engaging in fights that give you plenty of downtime to charge Fredran Riding, as even Stage 1 is higher damage than a fully charged [Wulfen Demolition](#wulfen-demolition).
 
 ### Type 2
 
@@ -28,9 +28,8 @@ This is a great option if you are engaging in fights that give you downtime to c
 
 While riding Fredran, Fredran will shoot projectiles at whatever enemy you are locked onto.
 These projectiles generate [Fredran focus](#harmonizer-focus) and [Treble Clef](#treble-clef).
-It does good damage, but you are quite vulnerable while riding Fredran since you can not animation cancel the riding animation, and dismounting Fredran does not give any guard or iframes.
-
-It *might* be good to use for dealing damage during downs. (Waiting on frame data to be available to confirm)
+If you can land 6+ hits, [held Fredran Riding](#held-fredran-riding) exceeds [held Wulfen Raid](#held-wulfen-raid) in DPS.
+However, this is difficult to do since the projectiles tend to miss against mobile targets, and you would have to ride Fredran for a significant amount of time.
 
 ### Type 3
 
