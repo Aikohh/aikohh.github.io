@@ -1,0 +1,7 @@
+[language-server.yaml-language-server.config.yaml]
+completion = true
+validate = true
+hover = true
+
+[language-server.yaml-language-server.config.yaml.schemas]
+"https://squidfunk.github.io/mkdocs-material/schema.json" = "mkdocs.yml"
