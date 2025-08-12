@@ -1,4 +1,83 @@
 site_name: Aikoh's Waker Guide
 site_url: https://aikohh.github.io/
+
+nav:
+  - Introduction: index.md
+  - Skill Tree: skill-tree.md
+  - Moveset: moveset.md
+  - Gameplay Strategy: gameplay.md
+  - Equipment: equipment.md
+  - Subclasses: subclass.md
+  - EX Styles: exstyles.md
+  - Add-on Skills: addons.md
+  - References: references.md
+  - Credits: credits.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower  - tables
+  - md_in_html
+  - pymdownx.blocks.caption
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 theme:
   name: material
+  logo: images/class-icons/Wa-32px.webp
+  favicon: images/class-icons/Wa.png
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.expand
+    - navigation.footer
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    - content.tooltips
+    - content.footnote.tooltips
+
+extra_css:
+  - extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/pso2
+  generator: true
+
+copyright: Copyright &copy; 2025, SEGA

@@ -5,3 +5,7 @@ hover = true
 
 [language-server.yaml-language-server.config.yaml.schemas]
 "https://squidfunk.github.io/mkdocs-material/schema.json" = "mkdocs.yml"
+
+[[language]]
+name = "python"
+formatter = { command = "black" }
